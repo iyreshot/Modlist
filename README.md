@@ -101,7 +101,7 @@ Make sure you are on the latest version of Wabbajack. As of this readme writing 
 [Wabbajack Version 3.5.0.1](https://github.com/wabbajack-tools/wabbajack/releases/tag/3.5.0.1)
 
 
-1. 
+1. Download the Wabbajack file from Nexus, extract the file and locate it within the Wabbajack installer
 2. When download is complete click the play arrow in the same location.
 3. Choose your install location, and Download location in the Wabbajack window.
   ### **Make sure the install location is minimum 500GB and OUTSIDE of any program or system files**
