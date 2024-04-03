@@ -223,11 +223,6 @@ This will be your swap file and supplement the VRAM if needed.
 
   5. Consider frame generation software.
 
-     ## *NOTE*
-     ### This is software I chose to purchase from Steam for my own game. Decide for yourself what is right for you.
-
-   [Lossless Scaling Frame Generator](https://store.steampowered.com/app/993090/Lossless_Scaling/)
-
    
  # The MCM Menu:
 
@@ -238,8 +233,6 @@ You can still go through the menu and change things to suit your preference afte
 ### Some important things to leave disabled for stability reasons
 
 Leave Minatours and Spiders Off in OBIS
-
-Leave Extra spawns Ore Guardians Off in Immersive Creatures
 
 Leave shadows OFF in Strange Runes
 
@@ -271,10 +264,7 @@ Backspace = Immersive Equipment Displays
 
 Shift + O = Open Animation Replacer
 
-Shift = Toggle use or take, and talk or pet for cats, dogs, and horses
-
-Ins = Blink Spell Hotkey (Can be modified in it's ini file)
-
+Shift = Dynamic Activation Key
 
 Dodges= Direction + Left Shift (can be changed in ini file for TK Dodge RE)
 
@@ -290,6 +280,7 @@ Home = dMenu
 While falling
 
 Paraglider pull or put away = activate key
+
 
 # Recommended Difficulty Levels (if running solo):
 
