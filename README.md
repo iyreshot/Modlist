@@ -1,4 +1,4 @@
-![](replace)
+![](https://github.com/iyresh0t/Modlist/blob/main/splash.png)
 
 # "Lyra" - A Fantasy Skyrim Modlist
 by iyreshot
