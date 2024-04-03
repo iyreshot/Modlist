@@ -25,7 +25,6 @@ by iyreshot
   - [The MCM Menu](README.md#the-mcm-menu)
   - [Known Issues](README.md#known-issues)
 - [Some Important Default Keys to Know](README.md#some-important-default-keys-to-know)
-  - [Word of Warning](README.md#word-of-warning)
 - [Recommended Difficulty Levels](README.md#recommended-difficulty-levels)
   - [Shout Out To Some Awesome People](README.md#shout-out-to-some-awesome-people)
   - [Final Words Before I Let You Go](README.md#final-words-before-i-let-you-go)
@@ -291,11 +290,6 @@ Home = dMenu
 While falling
 
 Paraglider pull or put away = activate key
-
-# *Word Of Warning*:
-
-Some creatures will be deleveled so you might come across a level 30 ogre at level 1 and have to run to survive. Ye have been warned!
-You will learn....stick and move, stick and dodge, run and heal or just plain run away to survive at lower levels.
 
 # Recommended Difficulty Levels (if running solo):
 
