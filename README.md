@@ -61,7 +61,7 @@ It is released with Open Permissions per the Wabbajack License Agreement
 
 Support will be provided for non-modified installations of the mod list via the Discord server
 
-[Discord Invite Link](https://discord.gg/kHehbzuFZ4)
+[Discord Invite Link](https://discord.com/invite/7ePVFvV58n)
 
 ## *We will only offer support for legally purchased copies of the game from Steam installed following this installation guide on hardware that meets or exceeds the minimum requirements*
 
