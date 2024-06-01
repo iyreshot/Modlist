@@ -1,158 +1,336 @@
+
 ![](https://github.com/iyresh0t/Modlist/blob/main/splash.png)
 
-# "Lyra" - A Fantasy Skyrim Modlist
-by iyreshot
 
-## v. 0.5.0
+## Version 0.5.0 by iyreshot
 
+<table stlyle="border: none;">
+<tr>
+<td><a href="">Nexus Page</a></td>
+<td><a href="">Download Wabbajack</a></td>	
+<td><a href="https://loadorderlibrary.com/lists/lyra-a-fantasy-skyrim-modlist">Load Order Library</a></td>
+<td><a href="https://discord.com/invite/7ePVFvV58n"><img alt="Discord" src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png" width="64px" ></a></td>
+</tr>
+</table>
 
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+
+***
 
 - [Overview](README.md#overview)
-  - [Requirements/Information](README.md#requirements-and-information)
-  - [Recommended Hardware](README.md#recommended-minimum-hardware)
+  - [Requirements and Information](README.md#requirements-and-information)
+  - [Recommended System Specifications](README.md#recommended-system-specifications)
 - [Installation](README.md#installation)
-  - [Pre-Install](README.md#pre-install)
-  - [Main Install](README.md#main-install)
+  - [Pre-Installation](README.md#pre-installation)
+  - [Wabbajack installation](README.md#wabbajack-installation)
+  - [Downloading and Installing The Nico Experience](README.md#downloading-and-installing-the-nico-experience)
+  - [Problems with Installation](README.md#problems-with-installation)
 - [Post Installation](README.md#post-installation)
-  - [Exclude Mod Organizer from your Anti-Virus](README.md#1-exclude-mo2-from-your-anti-virus)
-  - [Disable Steam Overlay](README.md#2-disable-steam-overlay)
-  - [Set Your Affinity](README.md#5-set-your-affinity)
-  - [AMD Specific Requirements *IMPORTANT*](README.md#6-amd-specific-requirements)
+  - [Widescreen Support](README.md#widescreen-support)
+  - [First Start Up](README.md#first-start-up)
+  - [Updating](README.md#updating)
 - [Included Tools](README.md#included-tools)
   - [About Adding More Tools](README.md#about-adding-more-tools)
 - [Some Notes on Basic System Setup](README.md#some-notes-on-basic-system-set-up)
   - [Performance Tweaks](README.md#performance-tweaks)
-  - [The MCM Menu](README.md#the-mcm-menu)
   - [Known Issues](README.md#known-issues)
-- [Some Important Default Keys to Know](README.md#some-important-default-keys-to-know)
-- [Recommended Difficulty Levels](README.md#recommended-difficulty-levels)
-  - [Shout Out To Some Awesome People](README.md#shout-out-to-some-awesome-people)
-  - [Final Words Before I Let You Go](README.md#final-words-before-i-let-you-go)
+  - [Recommended Difficulty Levels](README.md#recommended-difficulty-levels)
+- [Removing the Mod List](README.md#removing-the-mod-list)
+- [Shout Out To Some Awesome People](README.md#shout-out-to-some-awesome-people)
+- [Final Words Before I Let You Go](README.md#final-words-before-i-let-you-go)
 
-   
- # Overview:
+***
+
+## Overview:
+
+***
+
+Lyra 
+
+***
+
+## Requirements and Information
+
+***
+
+### Disclaimer
+
+**Lyra** only supports **English Steam** versions of Skyrim Anniversary Edition. **GOG and other Languages are not supported**. The specific version used is 1.5.97 with the creation club content from 1.6.1170.
+
+:warning: :exclamation: **"LYRA" REQUIRES THE FULL PAID UPDATE TO SKYRIM ANNIVERSARY EDITION. IT IS NOT/WILL NOT BE MADE COMPATIBLE WITH THE NON PAID UPDATE OR OLDER VERSIONS** :exclamation: :warning:
+
+Only, Windows 10 and 11 work with Wabbajack fully. LTSC, special variants, lightened editions or any other modified variant **WILL NOT WORK**. Your windows version **must be 21H2 or newer** to run both Wabbajack and **Lyra**.
+
+Running the list from Hard Disk Drives or external drives is **STRONGLY ADVISED AGAINST**. A lot of content is swapped at game run time and, as a result, fast storage and RAM are needed.
+
+***
+
+## Recommended System Specifications
+
+***
+
+**Lyra** requires a mid to high-tier modern system to run to its fullest potential. The recommended specs given below are based on utilizing the ENB in the list, and running the included VRAMr at Performance settings. For community shaders, you can subtract a little bit from them. Users have reported being able to run on hardware slightly lower than this, however your mileage may vary.
+
+***
+
+| Component    | Recommended for 1080p | 
+|:--------------:|:-------------:|
+| CPU | 10th Generation i5 or better/equivalent
+| Ram | 16GB DDR4 Ram  + 40GB Pagefile 
+| Storage | SATA SSD or higher
+| GPU | RTX 3060 or better/equivalent (12 GB VRAM)
+
+***
+
+| Component    | Recommended for 1440p | 
+|:--------------:|:-------------:|
+| CPU | 12th Generation i7 or better/equivalent
+| Ram | 32GB DDR4 Ram  + 40GB Pagefile 
+| Storage | M.2 SSD
+| GPU | RTX 4070ti Super or better/equivalent (16GB + VRAM)
+
+***
+
+Space required: ~153GB Archives  ~292GB install Size  40GB Page file ~485GB Total so recommend 500GB of space allocated for this list.
+
+See how to setup a page file here: https://www.tomshardware.com/news/how-to-manage-virtual-memory-pagefile-windows-10,36929.html
+
+:warning: **NOTE**: AMD RX 580 and older cards are **not supported**. :warning:
+
+***
+
+## Installation
+
+***
+
+Installing **Lyra** is relatively easy and, if you have Nexus Premium, will be a simple waiting game. If you are updating the modlist, you can safely skip to the [updating section](README.md#updating).
+
+***
+
+  ## Pre-installation
+
+  Prior to installing **Lyra**, please complete the following steps.
+
+
+1. Install [Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe) & [.Net Runtime v5 desktop x64](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
+2. Change Skyrim so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
+3. Fully uninstall Skyrim by deleting the folder and the Skyrim Special edition folder inside \Documents\My Games\.
+4. Fully disable OneDrive and any other programs which hook into user file areas.
+5. Reinstall Skyrim into a location that is not Program files. Somewhere like `C:\Games` is a good location. If you only have one drive, look into LostDragonist's [SteamLibrary tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide).
+6. Start the game once and let it do the graphics check. Do not worry about the settings as it will be replaced during installation.
+7. Launch the game to the main menu and allow it to download the paid addon files. **DO NOT VERIFY YOUR GAME FILES**
+8. Remove/Disable any 3rd party antivirus such as MalwareBytes or Webroot. These **will** mess with the installation and, in the case of the latter, causes more problems than it solves.
+9. **Install the Skyrim Special Edition: Creation Kit on Steam and run it at least once.** [Link to Creation Kit on Steam](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/)
+
+***
+
+  ## Wabbajack Installation
+
+Once you have completed pre-installation, download the [Latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases) and place it in a folder such as `C:\Games\Wabbajack`. Do not place it in program files, on your desktop or in your downloads folder. I recommend placing it on an SSD as it will work quicker on there.
+
+:warning: **NOTE**: **Lyra** will **always** require the latest version of Wabbajack **UNLESS IT IS SPECIFICALLY STATED HERE**. :warning:
+
+***
+
+  ## Downloading and Installing Lyra
+
+Downloading and installing **Lyra** can take a while depending on your internet connection and computer. To install, complete the following steps.
+
+1. Open Wabbajack and click on browse modlists. At the top in the Games Window choose Skyrim Special Edition. Check mark next to Show Unofficial Lists.
+2. Press the download button on Lyra, and wait for it to download.
+3. Set the installation folder to be somewhere like C:\Lyra. **Do not install it to your desktop or downloads folder.**
+4. The download location does not need to be on a SSD but it makes installing a bit faster.
+5. Press the play button to begin.
+6. Go and pet your nearest fluffy animal whilst Wabbajack does its thing. Alternatively read through this readme again.
+7. If the installation is successful, jump for joy and move onto [post installation](#post-installation). If the installation is unsuccessful, follow what is below.
+
+***
+
+## Problems with installation
+
+***
+
+It is possible that you may encounter an error with Wabbajack when installing. Some common issues are listed below.
+
+- Could not download x:
+	- Big files or files hosted on metered connections like google drive can fail to download due to connection issues. You can either run Wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads.
+
+ ### Potentially Problematic Files
+
+### *Here are links to files known to fail download. If the log mentions one or more of them please download from the link provided and drop the zipped folder in your download location for the installation then re-run Wabbajack*
+
+- [[Dint999] BDOR Hairs SSE 0.17](https://drive.google.com/uc?id=1tpY3bDs-LR6rptf8oPUfraKs1CkxJJB3&export=download)
+- 
+- 
+
+### *If the log mentions ANYTHING starting with 'cc'*
+
+   - **Make sure you have downloaded all the Paid AE update content!**
+
+### *If the log specifically mentions 'Curios'*
+
+   - **You did not follow the installation instructions!**
+   -  Go back to [Pre-Installation](README.md#pre-installation) and follow it this time.
+
+### *If log mentions ANYTHING 'lex' or 'creationkit':*
  
+   - **Make sure you have the Creation Kit installed.**
+   - Go back to [Pre-Installation](README.md#pre-installation) and read it properly this time.
 
-Lyra is my personal Skyrim modlist, something that will continue to develop with time. 
+### *Wabbajack could not find my game folder:*
 
-I wanted to build a list that is fun to explore, visually beautiful, 
-and doesn't destroy my PC...although this list is still pretty heavy, my main focus is performance.
-Currently I will focus on the land of Skyrim and it's DLCs, 
-making everything feel more immersive and fun to experience again. 
-So if you want to experience what this list has to offer, 
-and are excited for what's to come, 
-I invite you to try Lyra.
+   - Either buy the game or go back to the [Pre-Installation](README.md#pre-installation) step.
 
-
- # Requirements and Information:
-
- 
-### This modlist requires the Steam version of Skyrim AE v. 1.6.1170
-
-### All Anniversary Edition Creation Club Content
-
-### The Skyrim Special Edition Creation Kit
-
-It will auto Downgrade and run Skyrim SE 1.5.97 with CC content.
-
-It is released with Open Permissions per the Wabbajack License Agreement 
-
-[Wabbajack License](https://github.com/wabbajack-tools/wabbajack/blob/main/LICENSE.txt)
-
-Support will be provided for non-modified installations of the mod list via the Discord server
-
-[Discord Invite Link](https://discord.com/invite/7ePVFvV58n)
-
-## *We will only offer support for legally purchased copies of the game from Steam installed following this installation guide on hardware that meets or exceeds the minimum requirements*
-
-
-
- # Recommended Hardware:
+### *Antivirus reports a virus:*
+   - You did not follow the steps in [Pre-Installation](README.md#pre-installation). Go back and follow it.
+      - If you have followed it then you can fix this by [adding an exclusion for Mod Organizer in Windows Defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan). 
   
-Absolute minimum if using every provided option for optimization, and run VRAMr at 'performance' settings is:
+    
+***
 
-Video card with 12GB of VRAM
+## Post Installation
 
-Processor of 3Gz or better and minumum 4 cores
+***
 
-16GB system ram
+Open the installation folder and double-click on the program called `ModOrganizer.exe`. 
 
-Sata SSD with minimum 500 GB of free space and 40GB virtual memory 
+❗  **IMPORTANT STEP DO NOT SKIP** ❗
 
-   NOTE: The minimum specs will certainly struggle to maintain 30-50fps
+## Run VRAMr on performance setting
 
+### You can find VRAMr at the far right of the top of MO2 where all the executables are.
 
-# Installation:
-  ## Pre-install:
-1. Install a fresh copy of Skyrim AE from Steam version 1.6.1170
-2. Install the Creation Kit from Steam for Skyrim AE
-3. Launch the game once from Steam and at the prompt download all CC Content from the full version of AE.
-4. Start new game and after hearing  "So you're finally awake" open console (~) and type QQQ then press enter to quit out.
+#### This will take about an hour to run but important to reduce VRAM Usage and avoid system stutter while playing. Recommend Performance setting for everyone.
 
-  ## >Important Note<:
-**You will need a Vector Plexis account for High Poly Head download in the Wabbajack**
+- [Tutorial Video](https://www.youtube.com/watch?v=Se6oAvmtaBE&t=1s)
 
+Once complete drag and drop the folder it creates (that is clearly marked "DragNDropThisFolderIntoModManager") between Texgen_Output and Dyndolod_Output in MO2 '94. LOD Generation Output'
 
-  ## Main Install:
+Allow it time to install then activate the plug in by clicking on the box to checkmark it.
 
-Make sure you are on the latest version of Wabbajack. As of this readme writing it's 3.5.0.1
+❗ **IMPORTANT NOTE** ❗
 
-[Wabbajack Version 3.5.0.1](https://github.com/wabbajack-tools/wabbajack/releases/tag/3.5.0.1)
+In the right pane of MO2 click on 'Data' at the top.
+Navigate to Textures/interface/intfullnebulapanarama02.dds
+Right click / Hide 
 
+This is because VRAMr **WILL** downsize the image of the girls in the perk interface and we are hiding the one from VRAMr so that it uses the higher resolution original one.
 
-1. Download the Wabbajack file from Nexus, extract the file and locate it within the Wabbajack installer
-2. When download is complete click the play arrow in the same location.
-3. Choose your install location, and Download location in the Wabbajack window.
-  ### **Make sure the install location is minimum 500GB and OUTSIDE of any program or system files**
+### Stock Game
 
-  ### NOTE: **There will be one file that requires you choose and click the download on Vector Plexus window. The file you want is High Poly Head v1.4 SE**
-
-After that file is downloaded the rest of the install should be automated.
+The Nico Experience utilizes a Wabbajack technology called Stock Game. What this essentially does is create a copy of your Skyrim installation within the installation location of the list. This enables greater compatibility with other mod-lists.
 
 
- # Post Installation:
+### Change this line
 
-   ### MO2 and System Settings
-   
-   ## 1. Exclude MO2 from your Anti-Virus
-   
-   For Windows Defender click Windows tab in bottom left
-   
-   Type 'Virus' and select 'virus and threat protection'/ 'Manage settings'/ 'Exclusions'/ 'Add or remove exclusions'
-   
-   Add an Exclusion and navigate to your Mod Organizer 2. exe
+#### In MO2 find 'Tools' in the top left and click on it. Navigate to ini editor/ SkyrimPrefs.ini/[Launcher] sD3DDevice="NVIDIA GeForce RTX 3090
 
-   ## 2. Disable Steam Overlay
-   
-   Find the game in your Steam Library then go to Properties
-   
-   Under the General tab, you'll find a checkbox for Enable the Steam Overlay while in-game.
-   
-   Make sure it's unchecked.
+Change this line to reflect the graphics card you are using:
 
+This could also be done by running BethINI IIRC but good to check afterward to make sure it's referencing the correct card being used.
 
-  ### *Don't forget to change your resolution in Bethini to match your screen resolution. You may also wish to enable TAA at this time if using an AMD card (nVidia cards will use the Upscaler DLAA included in the list) or change preset*
+### Set your affinity
 
-  ## 5. Set your affinity
-
-In MO2 top left find the tools tab, and click on it.
+In MO2 top left find the tools tab again, and click on it.
 
 Find: 
 ### *Set CPU Affinity* 
 
 Click it and allow it to set the affinty for your processor.
 
-## 6. AMD Specific Requirements 
+***
 
-In MO2 left pane find line #4 Optimization, and expand
+## Widescreen Support
 
-Uncheck DLAA as it's set up for DLAA which won't work on AMD cards (will cause crash)
+***
+
+### Optional Setting the HUD for widescreen resolution.
+
+Search in MO2 Left pane for 'Widescreen' and again for 'Ultrawide'.
+
+#### *Enable all of them (There should be 4 files found).*
+
+### **Don't forget to run Bethini and change your resolution**
+
+### You will also need to change a line in display tweaks to match your resolution
+
+    In the left pane of MO2 type 'Display Teaks' in the search bar
+    Open to: SKSE\Plugins\SSEDisplayTweaks.ini
+    Find the lines:
+    Resolution = 1920x1080
+    ResolutionScale = .80
+    Change the resolution to match your chosen resolution then save
 
 
-## Congratulations you are now installed and set up.
+## Congratulations you are now installed and ready for first start up.
 
+***
 
- # Included Tools:
+## First Start up
+
+***
+
+Open the installation folder and double-click on the program called `ModOrganizer.exe`. 
+
+Make sure the dropdown box on the right is set to `The Nico Experience (version number)` and press the `Run` button. 
+
+Alternate method is clicking on the .exe link at the top labeled `The Nico Experience (version number)`
+
+This will start the game and bring you to the character creation menu.
+
+After your character is created and you name them >>>
+
+ ### The MCM Menu:
+
+As of Version 1_3_2 the MCM Recorder should Auto Run on new game start with recommended settings.
+
+### ❗ IT IS HIGHLY RECOMMENDED TO ALLOW THE MCM RECORDER FULLY COMPLETE BEFORE CONTINUING (61/61 steps) ❗
+
+#### *If this fails for any reason or gets stuck you can edit the .ini for MCM Recorder in MO2 and disable the auto run feature* 
+
+You can still go through the menu and change things to suit your preference afterward but this will give you a solid base to start from.
+
+#### Some important things to leave disabled for stability reasons
+
+Leave Minatours and Spiders Off in OBIS
+
+Leave Extra spawns Ore Guardians Off in Immersive Creatures
+
+Leave shadows OFF in Strange Runes
+
+#### By default The voice for PC head tracking and Dragonborn voice over is set for Ciri. This can be changed in the MCM.
+
+### ❗ IT IS RECOMMENDED AT THIS TIME TO OPEN THE IN GAME MENU TO 'CONTROLS' AND CHANGE ANY KEY BINDINGS TO SUIT YOUR PERSONAL PREFERENCES ❗
+
+#### *NOTE: All of these (except the swan and short dive keys of 'X', and 'C') can be changed to suit your preference either in settings/controls menu in game, the MCM menu or through the ini files for the specific mod found in MO2 left pane.*
+
+- [DirectX Scan Codes for ini values](https://gist.github.com/arithex/3e953d1eb096afe58ce05ba6846493e4)
+
+#### Defaults I have set for my game:
+
+***
+
+## Updating
+
+***
+
+### Unless noted otherwise in the change log all Updates will be Save Safe
+
+#### Updating should be as simple as downloading the latest 'Lyra' from Wabbajack, and running it with the same MO2 and Downloads install paths as your existing installation making sure to check the 'overwrite installation' box in the bottom right corner.
+
+***
+
+ ## Included Tools:
+
+ ***
+
+ ⚠️ ❗ **NOTE: These are provided for those that wish to add to this list however Official Support will not be given on modified lists** ❗ ⚠️
 
 Bethini Pie
 
@@ -172,9 +350,13 @@ ReSaver
 
 VRAMr
 
+Creation Kit
 
- # About Adding More Tools:
+***
 
+ ## About Adding More Tools:
+
+***
 
 All the tools you choose to install in addition to these need to link in the top right executable bar in MO2 so these programs can start from within the virtual file structure of MO2.
 This Wabbajack uses a file structure that contains a folder called 'Stock Folder' in the MO2 directory.
@@ -186,14 +368,17 @@ Good tutorial on how to set these up is here >>>>
 [Tutorial on setting up executables in stock folder](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/lessons/Setting%20up%20Stock%20Game%20for%20Skyrim%20SE.md#tool-setup)
 
 
+***
 
-  # Some Notes On Basic System Set Up:
+  ## Some Notes On Basic System Set Up:
+
+***
 	
 This mod list IS graphically taxing on the hardware but systems can run it if they have the room to breathe.
 I'm not going to hold your hand on this, and assume you know Google-fu for anything you don't understand here.
 
 1. Turn off any start up programs or background programs that do not need to be on while running the game.   
-[Blackviper.com](https://www.blackviper.com/) is a wonderful resource on trimming the fat out of the Windows System Services.
+There are guides on the web on how to go through Services.msc to trim the fat out of the Windows System Services.
 
 2. strip that graphics driver down of any AA, AO, AF settings (Turn off) as those effects will be handled by the game engine or the ENB. 
 DO NOT DOUBLE UP ON EFFECTS!  It will kill your framerate and will not look any better than only one doing that specific effect.
@@ -208,35 +393,47 @@ Panjano has a good video on how to set this up
 4. Go to system settings and set virtual memory on the drive the mod organizer is on at 40GB min and 40GB Max. Save and restart.
 This will be your swap file and supplement the VRAM if needed.
 
+5. Make sure your power plan is set for High performance and **NOT** balanced or power saver
 
-# Performance Tweaks
+***
 
-   Here are some things I recommend if your framerate is still suffering after applying the 12GB VRAMr and following the notes on 'Basic system set up' above.
+## Performance Tweaks
+
+***
+
+   Here are some things I recommend if your framerate is still suffering after applying the Performance VRAMr and following the notes on 'Basic system set up' above.
 
   1. Run BethINI (included tool) and choose a lower preset setting like Medium. The default is High. Be sure to NOT use Ambient Occusion, Screen Space Reflections, and turn Tree LOD Distance to '0'. These effects are being handled by Reshade, ENB, and DynDOLOD. Remember DO NOT DOUBLE UP ON EFFECTS! It will cost twice the frame cost with no change in visuals!
    
   2. Turn the settings on the effects in ENB to low or medium (default is high/Very high). These are in the left pane when you open ENB and can be seen when expanding each effect individually.
    
-  3. Run at a lower resolution.
+  3. Run at a lower resolution. 
    
   4. Lower the grass density in 'Explore Virtual Folder/Net Script Framework/Plugins/GrassControlConfig.txt/OverwriteMinGrassSize = 65' by INCREASING this number to something like 75-80.
+  
+  5. Go into Display Tweaks in the left pane of MO2 (search it then explore to SSEDisplayTweaks.ini) and lower this line number value:
+         ResolutionScale = 0.85
+  To something like .75
 
-  5. Consider frame generation software.
+### ❗  Lowering this value too much WILL make the Wheeler menu partially off screen so test any changes  ❗
 
-   
- # The MCM Menu:
+  This will reduce the resolution but also decrease the amount of pixels the game needs to render helping frame rate.    
+   Try to find a happy medium between graphical fidelity and FPS.
 
-MCM Recorder should Auto Run on new game start with recommended settings.
 
-You can still go through the menu and change things to suit your preference afterward but this will give you a solid base to start from.
+   ## *Some Users have reported being able to run this list on hardware BELOW the minimum I feel it needs*
 
-### Some important things to leave disabled for stability reasons
+   In addition to the tweaks recommended above people have removed the ENB and reshade from the list to trade graphical fidelity for frame rate.
 
-Leave Minatours and Spiders Off in OBIS
+   I have seen this list play on a 1080ti trading ENB and reshade for Community Shaders.
 
-Leave shadows OFF in Strange Runes
+   We do have a topic in the Discord for people to discuss what they have done to get it to run on hardware below the recommended minimum.
 
-  # Known Issues:
+***
+
+  ## Known Issues:
+
+***
 
 ## With MO2 Executables not working as intended
 
@@ -244,92 +441,26 @@ Find the tools folder within your MO2 installation folder, and the .exe of the a
 
 Right click/ compatability/ Run as administrator
 
-## Within the game
+***
 
-Sometimes when jumping you might get stuck in the jump animation. Jump again to fix
+## Removing the Mod List 
 
-Sometimes the Bow rapid combo attack won't work correctly. Switch weapons then switch back to fix
+***
 
-# *Some Important Default Keys To Know*:
+#### Simply delete the folder, and you have uninstalled it.
 
-Caps Lock + Enter = ENB Menu
+***
 
-Caps Lock + F12 = Toggle ENB Effect
-
-Caps Lock + F11 = Toggle Wire Frame
-
-F11 = Toggle A matter of time widget and clock
-
-Backspace = Immersive Equipment Displays
-
-Shift + O = Open Animation Replacer
-
-Shift = Dynamic Activation Key
-
-Dodges= Direction + Left Shift (can be changed in ini file for TK Dodge RE)
-
-G = Ultimate Immersion Toggle
-
-Q = Wheeler menu
-
-Alt (Hold) = Sprint
-
-Home = dMenu
-
-
-While falling
-
-Paraglider pull or put away = activate key
-
-
-# Recommended Difficulty Levels (if running solo):
-
-Level 0-9 Apprentice
-
-Level 10-15 Adept
-
-Level 16-20 Expert
-
-Level 21-30 Master
-
-Level 31 and up Legendry (if you have the stones for it)
-
-The game also has survival built in using Sunhelm but can toggle this on or off along with Cold survival in the MCM.
-
-Some quality of life / fun mods are also included.
-
-Paraglider, magical jumping, bow rapid combo v3, mist flight, and others you can have fun discovering and exploring.
-
-There are added worldspaces to explore as well.
-
-Wyrmstooth and Beyond Reach will start at a certain level but some you will just find in your exploring like Chanterelle, The Shire, Moonpath to Elswyer, Darkend, Skyrim Sewers, and Skyrim Underground.
-
+ ## Shout Out To Some Awesome People:
  
-# Shout Out To Some Awesome People:
+***
 
 Halgari for creation of this wonderful tool
 
--For play testing and feedback>>
+Althros for writing the licence.
 
-Nicoroshi - Without you, none of this would be happening. I cannot thank you enough. I have never felt so driven to do something before and you sparked that in me. :)
+***
 
-Gears - Thank you for everything you do, you're the GOAT! 
+## Final Words Before I Let You Go:
 
-BiggieBoss - You're the boss for a reason! Everything you do inspires me, and I really look up to what you do.
-
--Race Menu Presets>>
-
-Wren - You are such a kind hearted person, and I am more than happy to include your presets in this list! Thank you for everything.
-
-Islam - I hope it's ok to call you that! Thank you for the amazing presets, truly a work of art. :)
-
-# Final Words Before I Let You Go:
-
-I designed this mod list to be tougher than anything vanilla with FAR more creatures that are tougher than stock ones.
-As such I have included a mod called skyrim skill uncapper. It has an ini file you can tweak to your liking increasing (or decreasing) the amount of perk points per level as well as amount things like health, magica, and stamina go up per level. 
-CC Survival mode will conflict with SunHelm survivial. I recommend using ONLY Sunhelm as it covers cold, eat, drink, and sleep needs.
-
-It you are still reading to this point, please note that this list is still very much in Alpha state, and I intend to work tirelessly to make it the best experience I can and remain consistent with my vision. I appreciate you for taking the time to read this far...So for now, I will leave it here, and I can't wait to see where this goes. 
-Enjoy <3
-
--iyreshot
+***
