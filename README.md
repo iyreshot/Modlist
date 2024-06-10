@@ -29,10 +29,9 @@
 - [Installation](README.md#installation)
   - [Pre-Installation](README.md#pre-installation)
   - [Wabbajack installation](README.md#wabbajack-installation)
-  - [Downloading and Installing The Nico Experience](README.md#downloading-and-installing-the-nico-experience)
+  - [Downloading and Installing Lyra](README.md#downloading-and-installing-lyra)
   - [Problems with Installation](README.md#problems-with-installation)
 - [Post Installation](README.md#post-installation)
-  - [Widescreen Support](README.md#widescreen-support)
   - [First Start Up](README.md#first-start-up)
   - [Updating](README.md#updating)
 - [Included Tools](README.md#included-tools)
@@ -165,7 +164,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 ### *Here are links to files known to fail download. If the log mentions one or more of them please download from the link provided and drop the zipped folder in your download location for the installation then re-run Wabbajack*
 
-- [[Dint999] BDOR Hairs SSE 0.17](https://drive.google.com/uc?id=1tpY3bDs-LR6rptf8oPUfraKs1CkxJJB3&export=download)
+- 
 - 
 - 
 
@@ -278,9 +277,9 @@ Search in MO2 Left pane for 'Widescreen' and again for 'Ultrawide'.
 
 Open the installation folder and double-click on the program called `ModOrganizer.exe`. 
 
-Make sure the dropdown box on the right is set to `The Nico Experience (version number)` and press the `Run` button. 
+Make sure the dropdown box on the right is set to `Lyra (version number)` and press the `Run` button. 
 
-Alternate method is clicking on the .exe link at the top labeled `The Nico Experience (version number)`
+Alternate method is clicking on the .exe link at the top labeled `Lyra (version number)`
 
 This will start the game and bring you to the character creation menu.
 
@@ -288,9 +287,9 @@ After your character is created and you name them >>>
 
  ### The MCM Menu:
 
-As of Version 1_3_2 the MCM Recorder should Auto Run on new game start with recommended settings.
+As of Version 0.5.0 the MCM Recorder should Auto Run on new game start with recommended settings.
 
-### ❗ IT IS HIGHLY RECOMMENDED TO ALLOW THE MCM RECORDER FULLY COMPLETE BEFORE CONTINUING (61/61 steps) ❗
+### ❗ IT IS HIGHLY RECOMMENDED TO ALLOW THE MCM RECORDER FULLY COMPLETE BEFORE CONTINUING (7/7 steps) ❗
 
 #### *If this fails for any reason or gets stuck you can edit the .ini for MCM Recorder in MO2 and disable the auto run feature* 
 
@@ -300,15 +299,9 @@ You can still go through the menu and change things to suit your preference afte
 
 Leave Minatours and Spiders Off in OBIS
 
-Leave Extra spawns Ore Guardians Off in Immersive Creatures
-
 Leave shadows OFF in Strange Runes
 
-#### By default The voice for PC head tracking and Dragonborn voice over is set for Ciri. This can be changed in the MCM.
-
 ### ❗ IT IS RECOMMENDED AT THIS TIME TO OPEN THE IN GAME MENU TO 'CONTROLS' AND CHANGE ANY KEY BINDINGS TO SUIT YOUR PERSONAL PREFERENCES ❗
-
-#### *NOTE: All of these (except the swan and short dive keys of 'X', and 'C') can be changed to suit your preference either in settings/controls menu in game, the MCM menu or through the ini files for the specific mod found in MO2 left pane.*
 
 - [DirectX Scan Codes for ini values](https://gist.github.com/arithex/3e953d1eb096afe58ce05ba6846493e4)
 
@@ -346,7 +339,7 @@ Bodyslide and Outfit Studio
 
 NifSkope
 
-ReSaver
+Synthesis
 
 VRAMr
 
@@ -437,7 +430,7 @@ This will be your swap file and supplement the VRAM if needed.
 
 ## With MO2 Executables not working as intended
 
-Find the tools folder within your MO2 installation folder, and the .exe of the application inside it's respective folder (Example: D:\The Nico Experience\MO2\Tools\SSEedit)
+Find the tools folder within your MO2 installation folder, and the .exe of the application inside it's respective folder (Example: D:\Lyra\MO2\Tools\SSEedit)
 
 Right click/ compatability/ Run as administrator
 
@@ -459,8 +452,13 @@ Halgari for creation of this wonderful tool
 
 Althros for writing the licence.
 
+Nicoroshi for...well, everything. :) Truly the person who inspired me to even start modding! 
+
 ***
 
 ## Final Words Before I Let You Go:
+
+Since I consider this an Alpha, I just want to make it clear that this list is far from polished. There is a lot of patching to be done, and many changes to consider still before I call this a 1.0 release.
+So bare with me as this is just the beginning, I hope you enjoy the list!
 
 ***
