@@ -2,7 +2,7 @@
 ![](https://github.com/iyresh0t/Modlist/blob/main/splash.png)
 
 
-## Version 0.5.0 by iyreshot
+## Version 0.1.0 by iyreshot
 
 <table stlyle="border: none;">
 <tr>
@@ -447,6 +447,8 @@ Right click/ compatability/ Run as administrator
  ## Shout Out To Some Awesome People:
  
 ***
+Althro for the wonderful ANVIL modlist that I built this from. It helped jumpstart the list and without it I may never have started this.
+
 YOU for actually reading this, thanks for being awesome!
 
 Halgari for creation of this wonderful tool
