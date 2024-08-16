@@ -34,7 +34,6 @@
 - [Post Installation](README.md#post-installation)
   - [First Start Up](README.md#first-start-up)
   - [Updating](README.md#updating)
-- [Included Tools](README.md#included-tools)
   - [About Adding More Tools](README.md#about-adding-more-tools)
 - [Some Notes on Basic System Setup](README.md#some-notes-on-basic-system-set-up)
   - [Performance Tweaks](README.md#performance-tweaks)
@@ -80,7 +79,7 @@ Running the list from Hard Disk Drives or external drives is **STRONGLY ADVISED 
 
 | Component    | Recommended for 1080p | 
 |:--------------:|:-------------:|
-| CPU | 10th Generation i5 or better/equivalent
+| CPU | Ryzen 7 5800x
 | Ram | 16GB DDR4 Ram  + 40GB Pagefile 
 | Storage | SATA SSD or higher
 | GPU | RTX 3060 or better/equivalent (12 GB VRAM)
@@ -89,7 +88,7 @@ Running the list from Hard Disk Drives or external drives is **STRONGLY ADVISED 
 
 | Component    | Recommended for 1440p | 
 |:--------------:|:-------------:|
-| CPU | 12th Generation i7 or better/equivalent
+| CPU | Ryzen 7 5800x
 | Ram | 32GB DDR4 Ram  + 40GB Pagefile 
 | Storage | M.2 SSD
 | GPU | RTX 4070ti Super or better/equivalent (16GB + VRAM)
@@ -221,14 +220,14 @@ Right click / Hide
 
 This is because VRAMr **WILL** downsize the image of the girls in the perk interface and we are hiding the one from VRAMr so that it uses the higher resolution original one.
 
-### Stock Game
+### Root Builder
 
-The Nico Experience utilizes a Wabbajack technology called Stock Game. What this essentially does is create a copy of your Skyrim installation within the installation location of the list. This enables greater compatibility with other mod-lists.
+Lyra utilizes a Wabbajack technology called Root Builder. What this essentially does is create a copy of your Skyrim installation within the installation location of the list. This enables greater compatibility with other mod-lists.
 
 
 ### Change this line
 
-#### In MO2 find 'Tools' in the top left and click on it. Navigate to ini editor/ SkyrimPrefs.ini/[Launcher] sD3DDevice="NVIDIA GeForce RTX 3090
+#### In MO2 find 'Tools' in the top left and click on it. Navigate to ini editor/ SkyrimPrefs.ini/[Launcher] sD3DDevice="NVIDIA GeForce RTX 3060
 
 Change this line to reflect the graphics card you are using:
 
@@ -244,28 +243,6 @@ Find:
 Click it and allow it to set the affinty for your processor.
 
 ***
-
-## Widescreen Support
-
-***
-
-### Optional Setting the HUD for widescreen resolution.
-
-Search in MO2 Left pane for 'Widescreen' and again for 'Ultrawide'.
-
-#### *Enable all of them (There should be 4 files found).*
-
-### **Don't forget to run Bethini and change your resolution**
-
-### You will also need to change a line in display tweaks to match your resolution
-
-    In the left pane of MO2 type 'Display Teaks' in the search bar
-    Open to: SKSE\Plugins\SSEDisplayTweaks.ini
-    Find the lines:
-    Resolution = 1920x1080
-    ResolutionScale = .80
-    Change the resolution to match your chosen resolution then save
-
 
 ## Congratulations you are now installed and ready for first start up.
 
@@ -287,7 +264,7 @@ After your character is created and you name them >>>
 
  ### The MCM Menu:
 
-As of Version 0.5.0 the MCM Recorder should Auto Run on new game start with recommended settings.
+As of Version 0.1.0 the MCM Recorder should Auto Run on new game start with recommended settings.
 
 ### ❗ IT IS HIGHLY RECOMMENDED TO ALLOW THE MCM RECORDER FULLY COMPLETE BEFORE CONTINUING ❗
 
@@ -305,8 +282,6 @@ Leave shadows OFF in Strange Runes
 
 - [DirectX Scan Codes for ini values](https://gist.github.com/arithex/3e953d1eb096afe58ce05ba6846493e4)
 
-#### Defaults I have set for my game:
-
 ***
 
 ## Updating
@@ -315,37 +290,7 @@ Leave shadows OFF in Strange Runes
 
 ### Unless noted otherwise in the change log all Updates will be Save Safe
 
-#### Updating should be as simple as downloading the latest 'Lyra' from Wabbajack, and running it with the same MO2 and Downloads install paths as your existing installation making sure to check the 'overwrite installation' box in the bottom right corner.
-
-***
-
- ## Included Tools:
-
- ***
-
- ⚠️ ❗ **NOTE: These are provided for those that wish to add to this list however Official Support will not be given on modified lists** ❗ ⚠️
-
-Bethini Pie
-
-SSEedit and QuickAutoClean
-
-LOOT
-
-Cathedral Assets Optimizer
-
-Nemesis
-
-Bodyslide and Outfit Studio
-
-NifSkope
-
-Synthesis
-
-VRAMr
-
-Creation Kit
-
-***
+#### Updating should be as simple as downloading the latest .wabbajack file for 'Lyra' from Nexus, and running it with the same MO2 and Downloads install paths as your existing installation making sure to check the 'overwrite installation' box in the bottom right corner.
 
  ## About Adding More Tools:
 
@@ -413,19 +358,12 @@ This will be your swap file and supplement the VRAM if needed.
   This will reduce the resolution but also decrease the amount of pixels the game needs to render helping frame rate.    
    Try to find a happy medium between graphical fidelity and FPS.
 
-
-   ## *Some Users have reported being able to run this list on hardware BELOW the minimum I feel it needs*
-
-   In addition to the tweaks recommended above people have removed the ENB and reshade from the list to trade graphical fidelity for frame rate.
-
-   I have seen this list play on a 1080ti trading ENB and reshade for Community Shaders.
-
-   We do have a topic in the Discord for people to discuss what they have done to get it to run on hardware below the recommended minimum.
-
 ***
 
   ## Known Issues:
 
+   None as of yet...
+   
 ***
 
 ## With MO2 Executables not working as intended
@@ -447,13 +385,13 @@ Right click/ compatability/ Run as administrator
  ## Shout Out To Some Awesome People:
  
 ***
-Althro for the wonderful ANVIL modlist that I built this from. It helped jumpstart the list and without it I may never have started this.
-
 YOU for actually reading this, thanks for being awesome!
 
-Halgari for creation of this wonderful tool
+Althro for the wonderful ANVIL modlist that I built this from. It helped jumpstart the list and without it I may never have started this.
 
-Althros for writing the licence.
+Althros for writing the license.
+
+Halgari for creation of this wonderful tool
 
 Nicoroshi for...well, everything. :) Truly the person who inspired me to even start modding! 
 
