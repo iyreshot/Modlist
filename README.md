@@ -222,7 +222,7 @@ This is because VRAMr **WILL** downsize the image of the girls in the perk inter
 
 ### Root Builder
 
-Lyra utilizes a Wabbajack technology called Root Builder. What this essentially does is create a copy of your Skyrim installation within the installation location of the list. This enables greater compatibility with other mod-lists.
+Lyra utilizes a Wabbajack technology called Root Builder. RootBuilder is a plugin for Mod Organizer 2, allowing users to manage files in the base game directory through Mod Organizer.
 
 
 ### Change this line
