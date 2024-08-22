@@ -354,7 +354,6 @@ Right click/ compatability/ Run as administrator
 
  ## Shout Out To Some Awesome People:
  
-***
 YOU for actually reading this, thanks for being awesome!
 
 Althro for the wonderful ANVIL modlist that I built this from. It helped jumpstart the list and without it I may never have started this.
