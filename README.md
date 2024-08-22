@@ -52,9 +52,7 @@ Lyra is a fantasy Skyrim modlist that offers bright and vibrant visuals with Gam
 
 ## Requirements and Information
 
-***
-
-### Disclaimer
+# Disclaimer
 
 **Lyra** only supports **English Steam** versions of Skyrim Anniversary Edition. **GOG and other Languages are not supported**. The specific version used is 1.5.97 with the creation club content from 1.6.1170.
 
