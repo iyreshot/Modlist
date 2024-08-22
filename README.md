@@ -348,8 +348,6 @@ Right click/ compatability/ Run as administrator
 
 ## Removing the Mod List 
 
-***
-
 #### Simply delete the folder, and you have uninstalled it.
 
 ***
