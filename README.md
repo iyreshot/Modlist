@@ -198,14 +198,6 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 Open the installation folder and double-click on the program called `ModOrganizer.exe`. 
 
 
-❗ **IMPORTANT NOTE** ❗
-
-In the right pane of MO2 click on 'Data' at the top.
-Navigate to Textures/interface/intfullnebulapanarama02.dds
-Right click / Hide 
-
-This is because VRAMr **WILL** downsize the image of the girls in the perk interface and we are hiding the one from VRAMr so that it uses the higher resolution original one.
-
 ### Root Builder
 
 Lyra utilizes a Wabbajack technology called Root Builder. RootBuilder is a plugin for Mod Organizer 2, allowing users to manage files in the base game directory through Mod Organizer.
