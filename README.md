@@ -38,7 +38,6 @@
 - [Some Notes on Basic System Setup](README.md#some-notes-on-basic-system-set-up)
   - [Performance Tweaks](README.md#performance-tweaks)
   - [Known Issues](README.md#known-issues)
-  - [Recommended Difficulty Levels](README.md#recommended-difficulty-levels)
 - [Removing the Mod List](README.md#removing-the-mod-list)
 - [Shout Out To Some Awesome People](README.md#shout-out-to-some-awesome-people)
 - [Final Words Before I Let You Go](README.md#final-words-before-i-let-you-go)
@@ -198,19 +197,6 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 Open the installation folder and double-click on the program called `ModOrganizer.exe`. 
 
-❗  **IMPORTANT STEP DO NOT SKIP** ❗
-
-## Run VRAMr on performance setting
-
-### You can find VRAMr at the far right of the top of MO2 where all the executables are.
-
-#### This will take about an hour to run but important to reduce VRAM Usage and avoid system stutter while playing. Recommend Performance setting for everyone.
-
-- [Tutorial Video](https://www.youtube.com/watch?v=Se6oAvmtaBE&t=1s)
-
-Once complete drag and drop the folder it creates (that is clearly marked "DragNDropThisFolderIntoModManager") between Texgen_Output and Dyndolod_Output in MO2 '94. LOD Generation Output'
-
-Allow it time to install then activate the plug in by clicking on the box to checkmark it.
 
 ❗ **IMPORTANT NOTE** ❗
 
@@ -264,7 +250,7 @@ After your character is created and you name them >>>
 
  ### The MCM Menu:
 
-As of Version 0.1.0 the MCM Recorder should Auto Run on new game start with recommended settings.
+As of Version 0.2.2 the MCM Recorder should Auto Run on new game start with recommended settings.
 
 ### ❗ IT IS HIGHLY RECOMMENDED TO ALLOW THE MCM RECORDER FULLY COMPLETE BEFORE CONTINUING ❗
 
