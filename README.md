@@ -2,7 +2,7 @@
 ![](https://github.com/iyresh0t/Modlist/blob/main/splash.png)
 
 
-## Version 0.2.2 by iyreshot
+## Version 0.3.0 by iyreshot
 
 <table stlyle="border: none;">
 <tr>
