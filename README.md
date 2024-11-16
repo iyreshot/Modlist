@@ -1,5 +1,5 @@
 
-![](https://github.com/iyreshot/Modlist/blob/main/splash.png)
+![]()
 
 
 ## Version 0.4.0 by iyreshot
