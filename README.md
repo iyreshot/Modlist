@@ -88,7 +88,7 @@ Running the list from Hard Disk Drives or external drives is **STRONGLY ADVISED 
 
 ***
 
-Space required: ~153GB Archives  ~292GB install Size  40GB Page file ~485GB Total so recommend 500GB of space allocated for this list.
+Space required: ~300GB 
 
 See how to setup a page file here: https://www.tomshardware.com/news/how-to-manage-virtual-memory-pagefile-windows-10,36929.html
 
