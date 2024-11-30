@@ -2,7 +2,7 @@
 ![](https://github.com/iyreshot/Modlist/blob/main/lyraheader.png)
 
 
-## Version 0.4.0 by iyreshot
+## Version 0.5.0 by iyreshot
 
 <table stlyle="border: none;">
 <tr>
@@ -117,7 +117,6 @@ Installing **Lyra** is relatively easy and, if you have Nexus Premium, will be a
 6. Start the game once and let it do the graphics check. Do not worry about the settings as it will be replaced during installation.
 7. Launch the game to the main menu and allow it to download the paid addon files. **DO NOT VERIFY YOUR GAME FILES**
 8. Remove/Disable any 3rd party antivirus such as MalwareBytes or Webroot. These **will** mess with the installation and, in the case of the latter, causes more problems than it solves.
-9. **Install the Skyrim Special Edition: Creation Kit on Steam and run it at least once.** [Link to Creation Kit on Steam](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/)
 
 ***
 
@@ -133,13 +132,14 @@ Once you have completed pre-installation, download the [Latest version of Wabbaj
 
 Downloading and installing **Lyra** can take a while depending on your internet connection and computer. To install, complete the following steps.
 
-1. Open Wabbajack and click on browse modlists. At the top in the Games Window choose Skyrim Special Edition. Check mark next to Show Unofficial Lists.
-2. Press the download button on Lyra, and wait for it to download.
-3. Set the installation folder to be somewhere like C:\Lyra. **Do not install it to your desktop or downloads folder.**
-4. The download location does not need to be on a SSD but it makes installing a bit faster.
-5. Press the play button to begin.
-6. Go and pet your nearest fluffy animal whilst Wabbajack does its thing. Alternatively read through this readme again.
-7. If the installation is successful, jump for joy and move onto [post installation](#post-installation). If the installation is unsuccessful, follow what is below.
+1. Go to the Nexus page and download the [wabbajack file](https://www.nexusmods.com/skyrimspecialedition/mods/118277)
+2. Download the file somewhere safe, then extract it.
+3. Open the wabbajack client, and select "Install from Disk". Set the target modlist to the Lyra.wabbajack file.
+4. Set the installation folder to be somewhere like C:\Lyra. **Do not install it to your desktop or downloads folder.**
+5. The download location does not need to be on a SSD but it makes installing a bit faster.
+6. Press the play button to begin.
+7. Go and pet your nearest fluffy animal whilst Wabbajack does its thing. Alternatively read through this readme again.
+8. If the installation is successful, jump for joy and move onto [post installation](#post-installation). If the installation is unsuccessful, follow what is below.
 
 ***
 
@@ -197,14 +197,6 @@ Open the installation folder and double-click on the program called `ModOrganize
 Lyra utilizes a Wabbajack technology called Root Builder. RootBuilder is a plugin for Mod Organizer 2, allowing users to manage files in the base game directory through Mod Organizer.
 
 
-### Change this line
-
-#### In MO2 find 'Tools' in the top left and click on it. Navigate to ini editor/ SkyrimPrefs.ini/[Launcher] sD3DDevice="NVIDIA GeForce RTX 3060
-
-Change this line to reflect the graphics card you are using:
-
-This could also be done by running BethINI IIRC but good to check afterward to make sure it's referencing the correct card being used.
-
 ### Set your affinity
 
 In MO2 top left find the tools tab again, and click on it.
@@ -226,9 +218,7 @@ Click it and allow it to set the affinty for your processor.
 
 Open the installation folder and double-click on the program called `ModOrganizer.exe`. 
 
-Make sure the dropdown box on the right is set to `Lyra (version number)` and press the `Run` button. 
-
-Alternate method is clicking on the .exe link at the top labeled `Lyra (version number)`
+Make sure the dropdown box on the right is set to `Play "Lyra"` and press the `Run` button. 
 
 This will start the game and bring you to the character creation menu.
 
@@ -236,7 +226,7 @@ After your character is created and you name them >>>
 
  ### The MCM Menu:
 
-As of Version 0.2.2 the MCM Recorder should Auto Run on new game start with recommended settings.
+As of Version 0.5.0 the MCM Recorder should Auto Run on new game start with recommended settings.
 
 ### ❗ IT IS HIGHLY RECOMMENDED TO ALLOW THE MCM RECORDER FULLY COMPLETE BEFORE CONTINUING ❗
 
@@ -245,8 +235,6 @@ As of Version 0.2.2 the MCM Recorder should Auto Run on new game start with reco
 You can still go through the menu and change things to suit your preference afterward but this will give you a solid base to start from.
 
 #### Some important things to leave disabled for stability reasons
-
-Leave Minatours and Spiders Off in OBIS
 
 Leave shadows OFF in Strange Runes
 
