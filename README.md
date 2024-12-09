@@ -189,14 +189,6 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 ***
 
-Open the installation folder and double-click on the program called `ModOrganizer.exe`. 
-
-
-### Root Builder
-
-Lyra utilizes a Wabbajack technology called Root Builder. RootBuilder is a plugin for Mod Organizer 2, allowing users to manage files in the base game directory through Mod Organizer.
-
-
 ### Set your affinity
 
 In MO2 top left find the tools tab again, and click on it.
