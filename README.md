@@ -46,7 +46,7 @@
 
 ## Overview:
 
-Lyra is a fantasy Skyrim modlist that offers bright and vibrant visuals with Gameplay overhauls from EnaiSaion and MCO Combat. 
+### Lyra is a fantasy Skyrim modlist that offers bright and vibrant visuals with Gameplay overhauls from EnaiSaion and BFCO Combat. 
 
 ***
 
@@ -75,16 +75,16 @@ Running the list from Hard Disk Drives or external drives is **STRONGLY ADVISED 
 | CPU | Ryzen 7 5800x
 | Ram | 16GB DDR4 Ram  + 40GB Pagefile 
 | Storage | SATA SSD or higher
-| GPU | RTX 3060 or better/equivalent (12 GB VRAM)
+| GPU | RTX 3060 or better/equivalent (12GB VRAM)
 
 ***
 
 | Component    | Recommended for 1440p | 
 |:--------------:|:-------------:|
-| CPU | Ryzen 7 5800x
+| CPU | Ryzen 9 7900x
 | Ram | 32GB DDR4 Ram  + 40GB Pagefile 
 | Storage | M.2 SSD
-| GPU | RTX 4070ti Super or better/equivalent (16GB + VRAM)
+| GPU | RTX 4070ti Super or better/equivalent (16GB+ VRAM)
 
 ***
 
