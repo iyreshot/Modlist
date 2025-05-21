@@ -79,6 +79,7 @@
 | Storage | SATA SSD or higher
 | GPU | RTX 3060 or better/equivalent (12GB VRAM)
 
+
 | Component    | Recommended for 1440p | 
 |:--------------:|:-------------:|
 | CPU | Ryzen 9 7900x
