@@ -23,6 +23,8 @@
 
 ***
 
+*TABLE OF CONTENTS*
+
 - [Overview](README.md#overview)
   - [Requirements and Information](README.md#requirements-and-information)
   - [Recommended System Specifications](README.md#recommended-system-specifications)
