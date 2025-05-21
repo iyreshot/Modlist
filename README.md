@@ -46,7 +46,7 @@
 
 ## Overview:
 
-### Lyra is a fantasy Skyrim modlist that offers bright and vibrant visuals with Gameplay overhauls from EnaiSaion and BFCO Combat. 
+### Lyra is a cozy Skyrim modlist that offers fantastic low-fantasy visuals with a mix of Gameplay overhauls and BFCO Combat. 
 
 ***
 
