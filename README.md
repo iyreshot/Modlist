@@ -87,9 +87,7 @@
 | Storage | M.2 SSD
 | GPU | RTX 4070ti Super or better/equivalent (16GB+ VRAM)
 
-> See how to setup a page file here: https://www.tomshardware.com/news/how-to-manage-virtual-memory-pagefile-windows-10,36929.html
-
- - :warning: **NOTE**: AMD RX 580 and older cards are **not supported**. :warning:
+> See how to setup a page file here: https://www.tomshardware.com/news/how-to-manage-virtual-memory-pagefile-windows-10,36929.html :warning: **NOTE**: AMD RX 580 and older cards are **not supported**. :warning:
 
 ***
 
@@ -153,21 +151,22 @@ Downloading and installing **Lyra** can take a while depending on your internet 
 - 
 - 
 
-> If the log mentions ANYTHING starting with 'cc'
+- If the log mentions ANYTHING starting with 'cc'
 
-- Make sure you have downloaded all the Paid AE update content!
+ - Make sure you have downloaded all the Paid AE update content!
 
-> If the log specifically mentions 'Curios'
+- If the log specifically mentions 'Curios'
 
-- You did not follow the installation instructions!
+	- You did not follow the installation instructions!
 	-  Go back to [Pre-Installation](README.md#pre-installation) and follow it this time.
 
-> Wabbajack could not find my game folder:
+- Wabbajack could not find my game folder:
 
-- Either buy the game or go back to the [Pre-Installation](README.md#pre-installation) step.
+	- Either buy the game or go back to the [Pre-Installation](README.md#pre-installation) step.
 
-> Antivirus reports a virus:
-- You did not follow the steps in [Pre-Installation](README.md#pre-installation). Go back and follow it.
+- Antivirus reports a virus:
+
+	- You did not follow the steps in [Pre-Installation](README.md#pre-installation). Go back and follow it.
   	- If you have followed it then you can fix this by [adding an exclusion for Mod Organizer in Windows Defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).   
     
 ***
@@ -175,12 +174,12 @@ Downloading and installing **Lyra** can take a while depending on your internet 
 ## Post Installation
 
 > Set your Affinity
--  In MO2 top left find the button that looks like puzzle pieces, and click on it.
+	-  In MO2 top left find the button that looks like puzzle pieces, and click on it.
 
 > Find: "Set CPU Affinity"
-- Click it and allow it to set the affinty for your processor.
+	- Click it and allow it to set the affinty for your processor.
 
-	- ### Congratulations you are now installed and ready for first start up.
+-  *Congratulations you are now installed and ready for first start up.*
 
 ***
 
