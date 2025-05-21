@@ -117,7 +117,7 @@ Installing **Lyra** is relatively easy and, if you have Nexus Premium, will be a
 
   ## Wabbajack Installation
 
-Once you have completed pre-installation, download the [Latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases) and place it in a folder such as `C:\Games\Wabbajack`. Do not place it in program files, on your desktop or in your downloads folder. I recommend placing it on an SSD as it will work quicker on there.
+- Once you have completed pre-installation, download the [Latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases) and place it in a folder such as `C:\Games\Wabbajack`. Do not place it in program files, on your desktop or in your downloads folder. I recommend placing it on an SSD as it will work quicker on there.
 
 :warning: **NOTE**: **Lyra** will **always** require the latest version of Wabbajack **UNLESS IT IS SPECIFICALLY STATED HERE**. :warning:
 
@@ -140,42 +140,35 @@ Downloading and installing **Lyra** can take a while depending on your internet 
 
 ## Problems with installation
 
-***
-
-It is possible that you may encounter an error with Wabbajack when installing. Some common issues are listed below.
+> It is possible that you may encounter an error with Wabbajack when installing. Some common issues are listed below.
 
 - Could not download x:
 	- Big files or files hosted on metered connections like google drive can fail to download due to connection issues. You can either run Wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads.
 
 ## Potentially Problematic Files
 
-### *Here are links to files known to fail download. If the log mentions one or more of them please download from the link provided and drop the zipped folder in your download location for the installation then re-run Wabbajack*
+### Here are links to files known to fail download. If the log mentions one or more of them please download from the link provided and drop the zipped folder in your download location for the installation then re-run Wabbajack
 
 - 
 - 
 - 
 
-### *If the log mentions ANYTHING starting with 'cc'*
+### If the log mentions ANYTHING starting with 'cc'
 
-   - **Make sure you have downloaded all the Paid AE update content!**
+- Make sure you have downloaded all the Paid AE update content!
 
-### *If the log specifically mentions 'Curios'*
+### If the log specifically mentions 'Curios'
 
-   - **You did not follow the installation instructions!**
-   -  Go back to [Pre-Installation](README.md#pre-installation) and follow it this time.
+- You did not follow the installation instructions!
+	-  Go back to [Pre-Installation](README.md#pre-installation) and follow it this time.
 
-### *If log mentions ANYTHING 'lex' or 'creationkit':*
- 
-   - **Make sure you have the Creation Kit installed.**
-   - Go back to [Pre-Installation](README.md#pre-installation) and read it properly this time.
+### Wabbajack could not find my game folder:
 
-### *Wabbajack could not find my game folder:*
+- Either buy the game or go back to the [Pre-Installation](README.md#pre-installation) step.
 
-   - Either buy the game or go back to the [Pre-Installation](README.md#pre-installation) step.
-
-### *Antivirus reports a virus:*
-   - You did not follow the steps in [Pre-Installation](README.md#pre-installation). Go back and follow it.
-      - If you have followed it then you can fix this by [adding an exclusion for Mod Organizer in Windows Defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan). 
+### Antivirus reports a virus:
+- You did not follow the steps in [Pre-Installation](README.md#pre-installation). Go back and follow it.
+  	- If you have followed it then you can fix this by [adding an exclusion for Mod Organizer in Windows Defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan). 
   
     
 ***
@@ -186,10 +179,10 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 ***
 
 ### Set your Affinity
-> In MO2 top left find the button that looks like puzzle pieces, and click on it.
+-  In MO2 top left find the button that looks like puzzle pieces, and click on it.
 
 ### Find: "Set CPU Affinity"
->Click it and allow it to set the affinty for your processor.
+- Click it and allow it to set the affinty for your processor.
 
 ### Congratulations you are now installed and ready for first start up.
 
@@ -220,15 +213,13 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 ## Updating
 
-### Unless noted otherwise in the change log all Updates will be Save Safe
+- Unless noted otherwise in the change log all Updates will be Save Safe
 
-#### Updating should be as simple as downloading the latest .wabbajack file for 'Lyra' from Nexus, and running it with the same MO2 and Downloads install paths as your existing installation making sure to check the 'overwrite installation' box in the bottom right corner.
+- Updating should be as simple as downloading the latest .wabbajack file for 'Lyra' from Nexus, and running it with the same MO2 and Downloads install paths as your existing installation making sure to check the 'overwrite installation' box in the bottom right corner.
 
 ## About Adding More Tools:
 
-***
-
-All the tools you choose to install in addition to these need to link in the top right executable bar in MO2 so these programs can start from within the virtual file structure of MO2.
+- All the tools you choose to install in addition to these need to link in the top right executable bar in MO2 so these programs can start from within the virtual file structure of MO2.
 This Wabbajack uses a file structure that contains a folder called 'Game Root' in the MO2 directory.
 This is where the game will run from. It will NOT run from Skyrim Special Editions Folder so ALL links to executables NEED to point to the Stock Folder in Arguements to work correctly.
  
@@ -242,7 +233,7 @@ Good tutorial on how to set these up is here >>>>
 
 ## Some Notes On Basic System Set Up:
 	
-This mod list IS graphically taxing on the hardware but systems can run it if they have the room to breathe.
+-This mod list IS graphically taxing on the hardware but systems can run it if they have the room to breathe.
 I'm not going to hold your hand on this, and assume you know Google-fu for anything you don't understand here.
 
 1. Turn off any start up programs or background programs that do not need to be on while running the game.   
@@ -267,9 +258,7 @@ This will be your swap file and supplement the VRAM if needed.
 
 ## Performance Tweaks
 
-***
-
-   Here are some things I recommend if your framerate is still suffering after applying the Performance VRAMr and following the notes on 'Basic system set up' above.
+- Here are some things I recommend if your framerate is still suffering after applying the Performance VRAMr and following the notes on 'Basic system set up' above.
 
   1. Run BethINI (included tool) and choose a lower preset setting like Medium. The default is High. Be sure to NOT use Ambient Occusion, Screen Space Reflections, and turn Tree LOD Distance to '0'. These effects are being handled by Reshade, ENB, and DynDOLOD. Remember DO NOT DOUBLE UP ON EFFECTS! It will cost twice the frame cost with no change in visuals!
    
@@ -283,16 +272,16 @@ This will be your swap file and supplement the VRAM if needed.
          ResolutionScale = 0.85
   To something like .75
 
-### ❗  Lowering this value too much WILL make the Wheeler menu partially off screen so test any changes  ❗
+- ### ❗  Lowering this value too much WILL make the Wheeler menu partially off screen so test any changes  ❗
 
-  This will reduce the resolution but also decrease the amount of pixels the game needs to render helping frame rate.    
+- This will reduce the resolution but also decrease the amount of pixels the game needs to render helping frame rate.    
    Try to find a happy medium between graphical fidelity and FPS.
 
 ***
 
 ## Known Issues:
 
-   None as of yet...
+- None as of yet...
    
 ***
 
@@ -326,7 +315,7 @@ This will be your swap file and supplement the VRAM if needed.
 
 ## Final Words Before I Let You Go:
 
-Since I consider this an Alpha, I just want to make it clear that this list is far from polished. 
+- Since I consider this an Alpha, I just want to make it clear that this list is far from polished. 
 There is a lot of patching to be done, and many changes to consider still before I call this a 1.0 release.
 So bare with me as this is just the beginning, I hope you enjoy the list!
 
