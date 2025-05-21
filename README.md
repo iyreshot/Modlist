@@ -151,20 +151,20 @@ Downloading and installing **Lyra** can take a while depending on your internet 
 - 
 - 
 
-- If the log mentions ANYTHING starting with 'cc'
+- ### If the log mentions ANYTHING starting with 'cc'
 
- - Make sure you have downloaded all the Paid AE update content!
+	- Make sure you have downloaded all the Paid AE update content!
 
-- If the log specifically mentions 'Curios'
+- ### If the log specifically mentions 'Curios'
 
 	- You did not follow the installation instructions!
 	-  Go back to [Pre-Installation](README.md#pre-installation) and follow it this time.
 
-- Wabbajack could not find my game folder:
+- ### Wabbajack could not find my game folder:
 
 	- Either buy the game or go back to the [Pre-Installation](README.md#pre-installation) step.
 
-- Antivirus reports a virus:
+- ### Antivirus reports a virus:
 
 	- You did not follow the steps in [Pre-Installation](README.md#pre-installation). Go back and follow it.
   	- If you have followed it then you can fix this by [adding an exclusion for Mod Organizer in Windows Defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).   
