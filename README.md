@@ -334,22 +334,34 @@ Right click/ compatability/ Run as administrator
  ## Shout Out To Some Awesome People:
 
 You, for reading this 🙂
+
 Anna and Meg, you are the best ever. ❤
+
 Ivy, for being so kind and motivating me to keep modding :)
+
 Nicoroshi, for showing me the ropes
+
 Gears, for being amazing 
+
 Biggie_Boss, for being the realest 
+
 Icarus, for always being awesome  
+
 Althro, for the wonderful ANVIL modlist that I built this from. It helped jumpstart the list and without it I may never have started this.
+
 Althros, for writing the license.
+
 Halgari, for creation of this wonderful tool
+
 To everyone out there who supports the streams ❤❤
 
 ***
 
 ## Final Words Before I Let You Go:
 
-Since I consider this an Alpha, I just want to make it clear that this list is far from polished. There is a lot of patching to be done, and many changes to consider still before I call this a 1.0 release.
+Since I consider this an Alpha, I just want to make it clear that this list is far from polished. 
+There is a lot of patching to be done, and many changes to consider still before I call this a 1.0 release.
 So bare with me as this is just the beginning, I hope you enjoy the list!
 
+-iyre
 ***
