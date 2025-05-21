@@ -198,7 +198,7 @@ Downloading and installing **Lyra** can take a while depending on your internet 
 - This mod is simply used to keep the MCM clean and organized.
 
 
-> ### ❗ IT IS RECOMMENDED AT THIS TIME TO OPEN THE IN GAME MENU TO 'CONTROLS' AND CHANGE ANY KEY BINDINGS TO SUIT YOUR PERSONAL PREFERENCES Use This to find the number for the key you want to change something to >>>> [DirectX Scan Codes for ini values](https://gist.github.com/arithex/3e953d1eb096afe58ce05ba6846493e4) ❗
+> ❗ IT IS RECOMMENDED AT THIS TIME TO OPEN THE IN GAME MENU TO 'CONTROLS' AND CHANGE ANY KEY BINDINGS TO SUIT YOUR PERSONAL PREFERENCES Use This to find the number for the key you want to change something to >>>> [DirectX Scan Codes for ini values](https://gist.github.com/arithex/3e953d1eb096afe58ce05ba6846493e4) ❗
 
 ***
 
@@ -238,19 +238,15 @@ I'm not going to hold your hand on this, and assume you know Google-fu for anyth
 
 - Here are some things I recommend if your framerate is still suffering after applying the Performance VRAMr and following the notes on 'Basic system set up' above.
 
-  1. Run BethINI (included tool) and choose a lower preset setting like Medium. The default is High. Be sure to NOT use Ambient Occusion, Screen Space Reflections, and turn Tree LOD Distance to '0'. These effects are being handled by Reshade, ENB, and DynDOLOD. Remember DO NOT DOUBLE UP ON EFFECTS! It will cost twice the frame cost with no change in visuals!
-   
+  1. Run BethINI (included tool) and choose a lower preset setting like Medium. The default is High. Be sure to NOT use Ambient Occusion, Screen Space Reflections, and turn Tree LOD Distance to '0'. These effects are being handled by Reshade, ENB, and DynDOLOD. Remember DO NOT DOUBLE UP ON EFFECTS! It will cost twice the frame cost with no change in visuals! 
   2. Turn the settings on the effects in ENB to low or medium (default is high/Very high). These are in the left pane when you open ENB and can be seen when expanding each effect individually.
-   
-  3. Run at a lower resolution. 
-   
+  3. Run at a lower resolution.  
   4. Lower the grass density in 'Explore Virtual Folder/Net Script Framework/Plugins/GrassControlConfig.txt/OverwriteMinGrassSize = 65' by INCREASING this number to something like 75-80.
-  
   5. Go into Display Tweaks in the left pane of MO2 (search it then explore to SSEDisplayTweaks.ini) and lower this line number value:
          ResolutionScale = 0.85
   To something like .75
 
-- ### ❗  Lowering this value too much WILL make the Wheeler menu partially off screen so test any changes  ❗
+   > ❗  Lowering this value too much WILL make the Wheeler menu partially off screen so test any changes  ❗
 
 - This will reduce the resolution but also decrease the amount of pixels the game needs to render helping frame rate.    
    Try to find a happy medium between graphical fidelity and FPS.
@@ -297,7 +293,7 @@ I'm not going to hold your hand on this, and assume you know Google-fu for anyth
 There is a lot of patching to be done, and many changes to consider still before I call this a 1.0 release.
 So bare with me as this is just the beginning, I hope you enjoy the list!
 
--iyre
+> -iyre
 ***
 
 
