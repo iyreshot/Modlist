@@ -2,7 +2,7 @@
 ![](https://github.com/iyreshot/Modlist/blob/main/lyra.png)
 
 
-## Version v1 ~ by iyreshot
+## Version 0.6 ~ by iyreshot
 
 <table stlyle="border: none;">
 <tr>
@@ -193,8 +193,8 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 In MO2 top left find the tools tab again, and click on it.
 
-Find: 
-### *Set CPU Affinity* 
+###Find: 
+## *Set CPU Affinity* 
 
 Click it and allow it to set the affinty for your processor.
 
@@ -218,7 +218,11 @@ After your character is created and you name them >>>
 
  ### The MCM Menu:
 
-As of Version 0.5.0 the MCM Recorder should Auto Run on new game start with recommended settings.
+As of Version 0.6.0 the MCM is set up automatically. 
+
+If you wish to find any MCM menus that are hidden, click on the very first option labeled "Lyra Menu Maid" and uncheck any of the menus that you're looking for. 
+
+This mod is simply used to keep the MCM clean and organized.
 
 ### ❗ IT IS HIGHLY RECOMMENDED TO ALLOW THE MCM RECORDER FULLY COMPLETE BEFORE CONTINUING ❗
 
@@ -249,7 +253,7 @@ Leave shadows OFF in Strange Runes
 ***
 
 All the tools you choose to install in addition to these need to link in the top right executable bar in MO2 so these programs can start from within the virtual file structure of MO2.
-This Wabbajack uses a file structure that contains a folder called 'Stock Folder' in the MO2 directory.
+This Wabbajack uses a file structure that contains a folder called 'Game Root' in the MO2 directory.
 This is where the game will run from. It will NOT run from Skyrim Special Editions Folder so ALL links to executables NEED to point to the Stock Folder in Arguements to work correctly.
  
 
@@ -333,16 +337,18 @@ Right click/ compatability/ Run as administrator
 ***
 
  ## Shout Out To Some Awesome People:
- 
-YOU for actually reading this, thanks for being awesome!
 
-Althro for the wonderful ANVIL modlist that I built this from. It helped jumpstart the list and without it I may never have started this.
-
-Althros for writing the license.
-
-Halgari for creation of this wonderful tool
-
-Nicoroshi for...well, everything. :) Truly the person who inspired me to even start modding! 
+You, for reading this 🙂
+Anna and Meg, you are the best ever. ❤
+Ivy, for being so kind and motivating me to keep modding :)
+Nicoroshi, for showing me the ropes
+Gears, for being amazing 
+Biggie_Boss, for being the realest 
+Icarus, for always being awesome  
+Althro, for the wonderful ANVIL modlist that I built this from. It helped jumpstart the list and without it I may never have started this.
+Althros, for writing the license.
+Halgari, for creation of this wonderful tool
+To everyone out there who supports the streams ❤❤
 
 ***
 
