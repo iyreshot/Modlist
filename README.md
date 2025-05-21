@@ -72,16 +72,12 @@
 
 > **Lyra** requires a mid to high-tier modern system to run to its fullest potential. The recommended specs given below are based on utilizing the ENB in the list, and running the included VRAMr at Performance settings. For community shaders, you can subtract a little bit from them. Users have reported being able to run on hardware slightly lower than this, however your mileage may vary.
 
-***
-
 | Component    | Recommended for 1080p | 
 |:--------------:|:-------------:|
 | CPU | Ryzen 7 5800x
 | Ram | 16GB DDR4 Ram  + 40GB Pagefile 
 | Storage | SATA SSD or higher
 | GPU | RTX 3060 or better/equivalent (12GB VRAM)
-
-***
 
 | Component    | Recommended for 1440p | 
 |:--------------:|:-------------:|
