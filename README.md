@@ -55,24 +55,22 @@
 ## Requirements and Information
 
 
-**Lyra** only supports **English Steam** versions of Skyrim Anniversary Edition. **GOG and other Languages are not supported**. The specific version used is 1.5.97 with the creation club content from 1.6.1170.
+- :warning: :exclamation: **"LYRA" REQUIRES THE FULL PAID UPDATE TO SKYRIM ANNIVERSARY EDITION. IT IS NOT/WILL NOT BE MADE COMPATIBLE WITH THE NON PAID UPDATE OR OLDER VERSIONS** :exclamation: :warning:
 
 
-:warning: :exclamation: **"LYRA" REQUIRES THE FULL PAID UPDATE TO SKYRIM ANNIVERSARY EDITION. IT IS NOT/WILL NOT BE MADE COMPATIBLE WITH THE NON PAID UPDATE OR OLDER VERSIONS** :exclamation: :warning:
+- **Lyra** only supports **English Steam** versions of Skyrim Anniversary Edition. **GOG and other Languages are not supported**. The specific version used is 1.5.97 with the creation club content from 1.6.1170.
 
 
-Only, Windows 10 and 11 work with Wabbajack fully. LTSC, special variants, lightened editions or any other modified variant **WILL NOT WORK**. Your windows version **must be 21H2 or newer** to run both Wabbajack and **Lyra**.
+- Only, Windows 10 and 11 work with Wabbajack fully. LTSC, special variants, lightened editions or any other modified variant **WILL NOT WORK**. Your windows version **must be 21H2 or newer** to run both Wabbajack and **Lyra**.
 
 
-Running the list from Hard Disk Drives or external drives is **STRONGLY ADVISED AGAINST**. A lot of content is swapped at game run time and, as a result, fast storage and RAM are needed.
+- Running the list from Hard Disk Drives or external drives is **STRONGLY ADVISED AGAINST**. A lot of content is swapped at game run time and, as a result, fast storage and RAM are needed.
 
 ***
 
 ## Recommended System Specifications
 
-***
-
-**Lyra** requires a mid to high-tier modern system to run to its fullest potential. The recommended specs given below are based on utilizing the ENB in the list, and running the included VRAMr at Performance settings. For community shaders, you can subtract a little bit from them. Users have reported being able to run on hardware slightly lower than this, however your mileage may vary.
+> **Lyra** requires a mid to high-tier modern system to run to its fullest potential. The recommended specs given below are based on utilizing the ENB in the list, and running the included VRAMr at Performance settings. For community shaders, you can subtract a little bit from them. Users have reported being able to run on hardware slightly lower than this, however your mileage may vary.
 
 ***
 
