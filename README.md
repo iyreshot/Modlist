@@ -2,7 +2,7 @@
 ![](https://github.com/iyreshot/Modlist/blob/main/lyra.png)
 
 
-## Version 0.6 ~ by iyreshot
+## Version 0.7 ~ by iyreshot
 
 <table stlyle="border: none;">
 <tr>
@@ -52,11 +52,15 @@
 
 ## Requirements and Information
 
+
 **Lyra** only supports **English Steam** versions of Skyrim Anniversary Edition. **GOG and other Languages are not supported**. The specific version used is 1.5.97 with the creation club content from 1.6.1170.
+
 
 :warning: :exclamation: **"LYRA" REQUIRES THE FULL PAID UPDATE TO SKYRIM ANNIVERSARY EDITION. IT IS NOT/WILL NOT BE MADE COMPATIBLE WITH THE NON PAID UPDATE OR OLDER VERSIONS** :exclamation: :warning:
 
+
 Only, Windows 10 and 11 work with Wabbajack fully. LTSC, special variants, lightened editions or any other modified variant **WILL NOT WORK**. Your windows version **must be 21H2 or newer** to run both Wabbajack and **Lyra**.
+
 
 Running the list from Hard Disk Drives or external drives is **STRONGLY ADVISED AGAINST**. A lot of content is swapped at game run time and, as a result, fast storage and RAM are needed.
 
@@ -193,7 +197,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 In MO2 top left find the tools tab again, and click on it.
 
-###Find: 
+### Find: 
 ## *Set CPU Affinity* 
 
 Click it and allow it to set the affinty for your processor.
@@ -224,15 +228,6 @@ If you wish to find any MCM menus that are hidden, click on the very first optio
 
 This mod is simply used to keep the MCM clean and organized.
 
-### ❗ IT IS HIGHLY RECOMMENDED TO ALLOW THE MCM RECORDER FULLY COMPLETE BEFORE CONTINUING ❗
-
-#### *If this fails for any reason or gets stuck you can edit the .ini for MCM Recorder in MO2 and disable the auto run feature* 
-
-You can still go through the menu and change things to suit your preference afterward but this will give you a solid base to start from.
-
-#### Some important things to leave disabled for stability reasons
-
-Leave shadows OFF in Strange Runes
 
 ### ❗ IT IS RECOMMENDED AT THIS TIME TO OPEN THE IN GAME MENU TO 'CONTROLS' AND CHANGE ANY KEY BINDINGS TO SUIT YOUR PERSONAL PREFERENCES ❗
 
@@ -274,7 +269,7 @@ I'm not going to hold your hand on this, and assume you know Google-fu for anyth
 1. Turn off any start up programs or background programs that do not need to be on while running the game.   
 There are guides on the web on how to go through Services.msc to trim the fat out of the Windows System Services.
 
-2. strip that graphics driver down of any AA, AO, AF settings (Turn off) as those effects will be handled by the game engine or the ENB. 
+2. Strip that graphics driver down of any AA, AO, AF settings (Turn off) as those effects will be handled by the game engine or the ENB. 
 DO NOT DOUBLE UP ON EFFECTS!  It will kill your framerate and will not look any better than only one doing that specific effect.
 Run Gsync if avialable and for Heavens sake DO NOT use the in game vsync. Use driver vsync instead.
 Run latency at ultra and any settings you can at high performance in the driver.
