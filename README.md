@@ -1,5 +1,5 @@
 
-![](https://github.com/iyreshot/Modlist/blob/main/splash.png)
+![](https://github.com/iyreshot/Modlist/blob/main/lyra.png)
 
 
 ## Version v1 ~ by iyreshot
