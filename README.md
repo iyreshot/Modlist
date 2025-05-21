@@ -46,7 +46,7 @@
 
 ## Overview:
 
-- ### Lyra is a cozy Skyrim modlist that offers fantastic low-fantasy visuals with a mix of Gameplay overhauls and BFCO Combat. 
+> ### Lyra is a Skyrim modlist with a cozy and warm power-fantasy vibe; emphasizing exploration and fun—Powered by Wabbajack.
 
 ***
 
@@ -68,7 +68,9 @@
 
 ## Recommended System Specifications
 
-- **Lyra** requires a mid to high-tier modern system to run to its fullest potential. The recommended specs given below are based on utilizing the ENB in the list, and running the included VRAMr at Performance settings. For community shaders, you can subtract a little bit from them. Users have reported being able to run on hardware slightly lower than this, however your mileage may vary.
+> **Lyra** requires a mid to high-tier modern system to run to its fullest potential. The recommended specs given below are based on utilizing the ENB in the list, and running the included VRAMr at Performance settings. For community shaders, you can subtract a little bit from them. Users have reported being able to run on hardware slightly lower than this, however your mileage may vary.
+
+> ### Space required: ~300GB
 
 | Component    | Recommended for 1080p | 
 |:--------------:|:-------------:|
@@ -85,17 +87,15 @@
 | Storage | M.2 SSD
 | GPU | RTX 4070ti Super or better/equivalent (16GB+ VRAM)
 
-Space required: ~300GB 
+> See how to setup a page file here: https://www.tomshardware.com/news/how-to-manage-virtual-memory-pagefile-windows-10,36929.html
 
-See how to setup a page file here: https://www.tomshardware.com/news/how-to-manage-virtual-memory-pagefile-windows-10,36929.html
-
-:warning: **NOTE**: AMD RX 580 and older cards are **not supported**. :warning:
+ - :warning: **NOTE**: AMD RX 580 and older cards are **not supported**. :warning:
 
 ***
 
 ## Installation
 
-Installing **Lyra** is relatively easy and, if you have Nexus Premium, will be a simple waiting game. If you are updating the modlist, you can safely skip to the [updating section](README.md#updating).
+> Installing **Lyra** is relatively easy and, if you have Nexus Premium, will be a simple waiting game. If you are updating the modlist, you can safely skip to the [updating section](README.md#updating).
 
 ***
 
@@ -117,13 +117,13 @@ Installing **Lyra** is relatively easy and, if you have Nexus Premium, will be a
 
   ## Wabbajack Installation
 
-- Once you have completed pre-installation, download the [Latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases) and place it in a folder such as `C:\Games\Wabbajack`. Do not place it in program files, on your desktop or in your downloads folder. I recommend placing it on an SSD as it will work quicker on there.
+> Once you have completed pre-installation, download the [Latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases) and place it in a folder such as `C:\Games\Wabbajack`. Do not place it in program files, on your desktop or in your downloads folder. I recommend placing it on an SSD as it will work quicker on there.
 
-:warning: **NOTE**: **Lyra** will **always** require the latest version of Wabbajack **UNLESS IT IS SPECIFICALLY STATED HERE**. :warning:
+ - :warning: **NOTE**: **Lyra** will **always** require the latest version of Wabbajack **UNLESS IT IS SPECIFICALLY STATED HERE**. :warning:
 
 ***
 
-  ## Downloading and Installing Lyra
+## Downloading and Installing Lyra
 
 Downloading and installing **Lyra** can take a while depending on your internet connection and computer. To install, complete the following steps.
 
@@ -147,32 +147,30 @@ Downloading and installing **Lyra** can take a while depending on your internet 
 
 ## Potentially Problematic Files
 
-### Here are links to files known to fail download. If the log mentions one or more of them please download from the link provided and drop the zipped folder in your download location for the installation then re-run Wabbajack
+> Here are links to files known to fail download. If the log mentions one or more of them please download from the link provided and drop the zipped folder in your download location for the installation then re-run Wabbajack
 
 - 
 - 
 - 
 
-### If the log mentions ANYTHING starting with 'cc'
+> If the log mentions ANYTHING starting with 'cc'
 
 - Make sure you have downloaded all the Paid AE update content!
 
-### If the log specifically mentions 'Curios'
+> If the log specifically mentions 'Curios'
 
 - You did not follow the installation instructions!
 	-  Go back to [Pre-Installation](README.md#pre-installation) and follow it this time.
 
-### Wabbajack could not find my game folder:
+> Wabbajack could not find my game folder:
 
 - Either buy the game or go back to the [Pre-Installation](README.md#pre-installation) step.
 
-### Antivirus reports a virus:
+> Antivirus reports a virus:
 - You did not follow the steps in [Pre-Installation](README.md#pre-installation). Go back and follow it.
-  	- If you have followed it then you can fix this by [adding an exclusion for Mod Organizer in Windows Defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan). 
-  
+  	- If you have followed it then you can fix this by [adding an exclusion for Mod Organizer in Windows Defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).   
     
 ***
-
 
 ## Post Installation
 
@@ -185,7 +183,6 @@ Downloading and installing **Lyra** can take a while depending on your internet 
 	- ### Congratulations you are now installed and ready for first start up.
 
 ***
-
 
 ## First Start up
 
