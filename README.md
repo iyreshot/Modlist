@@ -1,8 +1,8 @@
 
-![](https://github.com/iyreshot/Modlist/blob/main/lyraheader.png)
+![](https://github.com/iyreshot/Modlist/blob/main/splash.png)
 
 
-## Version 0.5.0 by iyreshot
+## Version v1 ~ by iyreshot
 
 <table stlyle="border: none;">
 <tr>
