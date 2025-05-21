@@ -176,22 +176,18 @@ Downloading and installing **Lyra** can take a while depending on your internet 
 
 ## Post Installation
 
-***
-
-### Set your Affinity
+> Set your Affinity
 -  In MO2 top left find the button that looks like puzzle pieces, and click on it.
 
-### Find: "Set CPU Affinity"
+> Find: "Set CPU Affinity"
 - Click it and allow it to set the affinty for your processor.
 
-### Congratulations you are now installed and ready for first start up.
+	- ### Congratulations you are now installed and ready for first start up.
 
 ***
 
 
 ## First Start up
-
-***
 
 - Open the installation folder and double-click on the program called `ModOrganizer.exe`. 
 - Make sure the dropdown box on the right is set to `Play "Lyra"` and press the `Run` button. 
@@ -205,54 +201,39 @@ Downloading and installing **Lyra** can take a while depending on your internet 
 - This mod is simply used to keep the MCM clean and organized.
 
 
-### ❗ IT IS RECOMMENDED AT THIS TIME TO OPEN THE IN GAME MENU TO 'CONTROLS' AND CHANGE ANY KEY BINDINGS TO SUIT YOUR PERSONAL PREFERENCES ❗
-
-- [DirectX Scan Codes for ini values](https://gist.github.com/arithex/3e953d1eb096afe58ce05ba6846493e4)
+> ### ❗ IT IS RECOMMENDED AT THIS TIME TO OPEN THE IN GAME MENU TO 'CONTROLS' AND CHANGE ANY KEY BINDINGS TO SUIT YOUR PERSONAL PREFERENCES Use This to find the number for the key you want to change something to >>>> [DirectX Scan Codes for ini values](https://gist.github.com/arithex/3e953d1eb096afe58ce05ba6846493e4) ❗
 
 ***
 
 ## Updating
 
-- Unless noted otherwise in the change log all Updates will be Save Safe
-
-- Updating should be as simple as downloading the latest .wabbajack file for 'Lyra' from Nexus, and running it with the same MO2 and Downloads install paths as your existing installation making sure to check the 'overwrite installation' box in the bottom right corner.
+> Unless noted otherwise in the change log all Updates will be Save Safe Updating should be as simple as downloading the latest .wabbajack file for 'Lyra' from Nexus, and running it with the same MO2 and Downloads install paths as your existing installation making sure to check the 'overwrite installation' box in the bottom right corner.
 
 ## About Adding More Tools:
 
-- All the tools you choose to install in addition to these need to link in the top right executable bar in MO2 so these programs can start from within the virtual file structure of MO2.
+> All the tools you choose to install in addition to these need to link in the top right executable bar in MO2 so these programs can start from within the virtual file structure of MO2.
 This Wabbajack uses a file structure that contains a folder called 'Game Root' in the MO2 directory.
 This is where the game will run from. It will NOT run from Skyrim Special Editions Folder so ALL links to executables NEED to point to the Stock Folder in Arguements to work correctly.
  
 
-Find this in MO2 executable bar under <EDIT....> then on the binary click the 3 dots and navigate to your file path for that exe to change this file paths to lead to your specific file install paths OR IT WILL NOT WORK. They are currently set for my file paths. Use those as a reference on how to set them up.
-Good tutorial on how to set these up is here >>>>
-[Tutorial on setting up executables in stock folder](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/lessons/Setting%20up%20Stock%20Game%20for%20Skyrim%20SE.md#tool-setup)
-
+- Find this in MO2 executable bar under <EDIT....> then on the binary click the 3 dots and navigate to your file path for that exe to change this file paths to lead to your specific file install paths OR IT WILL NOT WORK. They are currently set for my file paths. Use those as a reference on how to set them up.
+- Good tutorial on how to set these up is here >>>> [Tutorial on setting up executables in stock folder](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/lessons/Setting%20up%20Stock%20Game%20for%20Skyrim%20SE.md#tool-setup)
 
 ***
 
 ## Some Notes On Basic System Set Up:
 	
--This mod list IS graphically taxing on the hardware but systems can run it if they have the room to breathe.
+> This mod list IS graphically taxing on the hardware but systems can run it if they have the room to breathe.
 I'm not going to hold your hand on this, and assume you know Google-fu for anything you don't understand here.
 
-1. Turn off any start up programs or background programs that do not need to be on while running the game.   
-There are guides on the web on how to go through Services.msc to trim the fat out of the Windows System Services.
-
-2. Strip that graphics driver down of any AA, AO, AF settings (Turn off) as those effects will be handled by the game engine or the ENB. 
-DO NOT DOUBLE UP ON EFFECTS!  It will kill your framerate and will not look any better than only one doing that specific effect.
-Run Gsync if avialable and for Heavens sake DO NOT use the in game vsync. Use driver vsync instead.
-Run latency at ultra and any settings you can at high performance in the driver.
-
-3. Run resizable bar if your hardware is capable of it. It widens the bandwidth for better file transfer speeds (i.e. smoother gameplay)
-Panjano has a good video on how to set this up
- [>>>Here<<<](https://www.youtube.com/watch?v=5DqcgHtkm9I)
-
-
-4. Go to system settings and set virtual memory on the drive the mod organizer is on at 40GB min and 40GB Max. Save and restart.
-This will be your swap file and supplement the VRAM if needed.
-
-5. Make sure your power plan is set for High performance and **NOT** balanced or power saver
+ 1. Turn off any start up programs or background programs that do not need to be on while running the game. There are guides on the web on how to go through Services.msc to trim the fat out of the Windows System Services.
+ 2. Strip that graphics driver down of any AA, AO, AF settings (Turn off) as those effects will be handled by the game engine or the ENB. 
+ 3. DO NOT DOUBLE UP ON EFFECTS!  It will kill your framerate and will not look any better than only one doing that specific effect.
+ 4. Run Gsync if avialable and for Heavens sake DO NOT use the in game vsync. Use driver vsync instead.
+ 5. Run latency at ultra and any settings you can at high performance in the driver.
+ 6. Run resizable bar if your hardware is capable of it. It widens the bandwidth for better file transfer speeds (i.e. smoother gameplay) Panjano has a good video on how to set this up [>>>Here<<<](https://www.youtube.com/watch?v=5DqcgHtkm9I)
+ 7. Go to system settings and set virtual memory on the drive the mod organizer is on at 40GB min and 40GB Max. Save and restart. This will be your swap file and supplement the VRAM if needed.
+ 8. Make sure your power plan is set for High performance and **NOT** balanced or power saver
 
 ***
 
