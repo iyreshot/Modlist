@@ -153,7 +153,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 - Could not download x:
 	- Big files or files hosted on metered connections like google drive can fail to download due to connection issues. You can either run Wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads.
 
- ### Potentially Problematic Files
+## Potentially Problematic Files
 
 ### *Here are links to files known to fail download. If the log mentions one or more of them please download from the link provided and drop the zipped folder in your download location for the installation then re-run Wabbajack*
 
@@ -206,21 +206,16 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 ***
 
-Open the installation folder and double-click on the program called `ModOrganizer.exe`. 
-
-Make sure the dropdown box on the right is set to `Play "Lyra"` and press the `Run` button. 
-
-This will start the game and bring you to the character creation menu.
-
-After your character is created and you name them >>>
+> Open the installation folder and double-click on the program called `ModOrganizer.exe`. 
+> Make sure the dropdown box on the right is set to `Play "Lyra"` and press the `Run` button. 
+> This will start the game and bring you to the character creation menu.
+> After your character is created and you name them >>>
 
  ### The MCM Menu:
 
-As of Version 0.6.0 the MCM is set up automatically. 
-
-If you wish to find any MCM menus that are hidden, click on the very first option labeled "Lyra Menu Maid" and uncheck any of the menus that you're looking for. 
-
-This mod is simply used to keep the MCM clean and organized.
+> As of Version 0.6.0 the MCM is set up automatically. 
+> If you wish to find any MCM menus that are hidden, click on the very first option labeled "Lyra Menu Maid" and uncheck any of the menus that you're looking for. 
+> This mod is simply used to keep the MCM clean and organized.
 
 
 ### ❗ IT IS RECOMMENDED AT THIS TIME TO OPEN THE IN GAME MENU TO 'CONTROLS' AND CHANGE ANY KEY BINDINGS TO SUIT YOUR PERSONAL PREFERENCES ❗
@@ -327,27 +322,17 @@ Right click/ compatability/ Run as administrator
 
  ## Shout Out To Some Awesome People:
 
-You, for reading this 🙂
-
-Anna and Meg, you are the best ever. ❤
-
-Ivy, for being so kind and motivating me to keep modding :)
-
-Nicoroshi, for showing me the ropes
-
-Gears, for being amazing 
-
-Biggie_Boss, for being the realest 
-
-Icarus, for always being awesome  
-
-Althro, for the wonderful ANVIL modlist that I built this from. It helped jumpstart the list and without it I may never have started this.
-
-Althros, for writing the license.
-
-Halgari, for creation of this wonderful tool
-
-To everyone out there who supports the streams ❤❤
+- You, for reading this 🙂
+- Anna and Meg, you are the best ever. ❤
+- Ivy, for being so kind and motivating me to keep modding :)
+- Nicoroshi, for showing me the ropes
+- Gears, for being amazing 
+- Biggie_Boss, for being the realest 
+- Icarus, for always being awesome  
+- Althro, for the wonderful ANVIL modlist that I built this from. It helped jumpstart the list and without it I may never have started this.
+- Althros, for writing the license.
+- Halgari, for creation of this wonderful tool
+- To everyone out there who supports the streams ❤❤
 
 ***
 
