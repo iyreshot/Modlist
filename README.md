@@ -22,7 +22,6 @@
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 ***
-
 *TABLE OF CONTENTS*
 
 - [Overview](README.md#overview)
@@ -43,14 +42,11 @@
 - [Removing the Mod List](README.md#removing-the-mod-list)
 - [Shout Out To Some Awesome People](README.md#shout-out-to-some-awesome-people)
 - [Final Words Before I Let You Go](README.md#final-words-before-i-let-you-go)
-
 ***
 
 ## Overview:
 
-### Lyra is a cozy Skyrim modlist that offers fantastic low-fantasy visuals with a mix of Gameplay overhauls and BFCO Combat. 
-
-***
+- ### Lyra is a cozy Skyrim modlist that offers fantastic low-fantasy visuals with a mix of Gameplay overhauls and BFCO Combat. 
 
 ## Requirements and Information
 
@@ -70,7 +66,7 @@
 
 ## Recommended System Specifications
 
-> **Lyra** requires a mid to high-tier modern system to run to its fullest potential. The recommended specs given below are based on utilizing the ENB in the list, and running the included VRAMr at Performance settings. For community shaders, you can subtract a little bit from them. Users have reported being able to run on hardware slightly lower than this, however your mileage may vary.
+- **Lyra** requires a mid to high-tier modern system to run to its fullest potential. The recommended specs given below are based on utilizing the ENB in the list, and running the included VRAMr at Performance settings. For community shaders, you can subtract a little bit from them. Users have reported being able to run on hardware slightly lower than this, however your mileage may vary.
 
 | Component    | Recommended for 1080p | 
 |:--------------:|:-------------:|
@@ -87,8 +83,6 @@
 | Storage | M.2 SSD
 | GPU | RTX 4070ti Super or better/equivalent (16GB+ VRAM)
 
-***
-
 Space required: ~300GB 
 
 See how to setup a page file here: https://www.tomshardware.com/news/how-to-manage-virtual-memory-pagefile-windows-10,36929.html
@@ -99,13 +93,11 @@ See how to setup a page file here: https://www.tomshardware.com/news/how-to-mana
 
 ## Installation
 
-***
-
 Installing **Lyra** is relatively easy and, if you have Nexus Premium, will be a simple waiting game. If you are updating the modlist, you can safely skip to the [updating section](README.md#updating).
 
 ***
 
-  ## Pre-installation
+## Pre-installation
 
   Prior to installing **Lyra**, please complete the following steps.
 
@@ -206,16 +198,16 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 ***
 
-> Open the installation folder and double-click on the program called `ModOrganizer.exe`. 
-> Make sure the dropdown box on the right is set to `Play "Lyra"` and press the `Run` button. 
-> This will start the game and bring you to the character creation menu.
-> After your character is created and you name them >>>
+- Open the installation folder and double-click on the program called `ModOrganizer.exe`. 
+- Make sure the dropdown box on the right is set to `Play "Lyra"` and press the `Run` button. 
+- This will start the game and bring you to the character creation menu.
+- After your character is created and you name them >>>
 
  ### The MCM Menu:
 
-> As of Version 0.6.0 the MCM is set up automatically. 
-> If you wish to find any MCM menus that are hidden, click on the very first option labeled "Lyra Menu Maid" and uncheck any of the menus that you're looking for. 
-> This mod is simply used to keep the MCM clean and organized.
+- As of Version 0.6.0 the MCM is set up automatically. 
+- If you wish to find any MCM menus that are hidden, click on the very first option labeled "Lyra Menu Maid" and uncheck any of the menus that you're looking for. 
+- This mod is simply used to keep the MCM clean and organized.
 
 
 ### ❗ IT IS RECOMMENDED AT THIS TIME TO OPEN THE IN GAME MENU TO 'CONTROLS' AND CHANGE ANY KEY BINDINGS TO SUIT YOUR PERSONAL PREFERENCES ❗
@@ -226,13 +218,11 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 ## Updating
 
-***
-
 ### Unless noted otherwise in the change log all Updates will be Save Safe
 
 #### Updating should be as simple as downloading the latest .wabbajack file for 'Lyra' from Nexus, and running it with the same MO2 and Downloads install paths as your existing installation making sure to check the 'overwrite installation' box in the bottom right corner.
 
- ## About Adding More Tools:
+## About Adding More Tools:
 
 ***
 
@@ -248,9 +238,7 @@ Good tutorial on how to set these up is here >>>>
 
 ***
 
-  ## Some Notes On Basic System Set Up:
-
-***
+## Some Notes On Basic System Set Up:
 	
 This mod list IS graphically taxing on the hardware but systems can run it if they have the room to breathe.
 I'm not going to hold your hand on this, and assume you know Google-fu for anything you don't understand here.
@@ -300,7 +288,7 @@ This will be your swap file and supplement the VRAM if needed.
 
 ***
 
-  ## Known Issues:
+## Known Issues:
 
    None as of yet...
    
@@ -308,15 +296,13 @@ This will be your swap file and supplement the VRAM if needed.
 
 ## With MO2 Executables not working as intended
 
-Find the tools folder within your MO2 installation folder, and the .exe of the application inside it's respective folder (Example: D:\Lyra\MO2\Tools\SSEedit)
-
-Right click/ compatability/ Run as administrator
+- Find the tools folder within your MO2 installation folder, and the .exe of the application inside it's respective folder (Example: D:\Lyra\MO2\Tools\SSEedit) and Right click, then click Properties, then compatability and check "Run as administrator"
 
 ***
 
 ## Removing the Mod List 
 
-#### Simply delete the folder, and you have uninstalled it.
+- #### Simply delete the folder, and you have uninstalled it.
 
 ***
 
