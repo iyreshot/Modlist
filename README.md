@@ -2,7 +2,7 @@
 ![](https://github.com/iyreshot/Modlist/blob/main/lyra.png)
 
 
-## Version 0.7 ~ by iyreshot
+## Version 0.0.1 ~ by iyreshot
 
 <table stlyle="border: none;">
 <tr>
@@ -46,7 +46,7 @@
 
 ## Overview:
 
-> # Lyra is a Skyrim modlist with a cozy and warm power-fantasy vibe; emphasizing exploration and fun—Powered by Wabbajack.
+> # Lyra is a (soon to be Requiem) Skyrim modlist with a cozy and warm fantasy vibe; emphasizing exploration, challenge and fun—Powered by Wabbajack.
 
 ***
 
@@ -270,12 +270,9 @@ I'm not going to hold your hand on this, and assume you know Google-fu for anyth
  ## Shout Out To Some Awesome People:
 
 - You, for reading this 🙂
-- Anna and Meg, you are the best ever. ❤
 - Ivy, for being so kind and motivating me to keep modding :)
-- Nicoroshi, for showing me the ropes
-- Gears, for being amazing 
-- Biggie_Boss, for being the realest 
-- Icarus, for always being awesome  
+- Gears, for being amazing
+- Anna and Meg, you are the best ever!
 - Althro, for the wonderful ANVIL modlist that I built this from. It helped jumpstart the list and without it I may never have started this.
 - Althros, for writing the license.
 - Halgari, for creation of this wonderful tool
