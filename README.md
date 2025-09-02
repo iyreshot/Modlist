@@ -2,7 +2,7 @@
 ![](https://github.com/iyreshot/Modlist/blob/main/lyra.png)
 
 
-## Version 0.0.1 ~ by iyreshot
+## Version 0.0.6 ~ by iyreshot
 
 <table stlyle="border: none;">
 <tr>
