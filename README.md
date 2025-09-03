@@ -145,26 +145,19 @@ Downloading and installing **Lyra** can take a while depending on your internet 
 ## Potentially Problematic Files
 
 > Here are links to files known to fail download. If the log mentions one or more of them please download from the link provided and drop the zipped folder in your download location for the installation then re-run Wabbajack
-
-- 
-- 
-- 
+ 	- None yet
 
 - ### If the log mentions ANYTHING starting with 'cc'
-
 	- Make sure you have downloaded all the Paid AE update content!
 
 - ### If the log specifically mentions 'Curios'
-
 	- You did not follow the installation instructions!
 	-  Go back to [Pre-Installation](README.md#pre-installation) and follow it this time.
 
 - ### Wabbajack could not find my game folder:
-
 	- Either buy the game or go back to the [Pre-Installation](README.md#pre-installation) step.
 
 - ### Antivirus reports a virus:
-
 	- You did not follow the steps in [Pre-Installation](README.md#pre-installation). Go back and follow it.
   	- If you have followed it then you can fix this by [adding an exclusion for Mod Organizer in Windows Defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).   
     
@@ -191,7 +184,7 @@ Downloading and installing **Lyra** can take a while depending on your internet 
 
  ### The MCM Menu:
 
-- As of Version 0.6.0 the MCM is set up automatically. 
+- As of Version 0.0.6 the MCM is set up automatically. 
 - If you wish to find any MCM menus that are hidden, click on the very first option labeled "Lyra Menu Maid" and uncheck any of the menus that you're looking for. 
 - This mod is simply used to keep the MCM clean and organized.
 
