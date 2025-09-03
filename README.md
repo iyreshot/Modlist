@@ -2,7 +2,7 @@
 ![](https://github.com/iyreshot/Modlist/blob/main/Logo_16x9.png)
 
 
-## Version 0.0.6 ~ by iyreshot
+# Version 0.0.6 ~ by iyreshot
 
 <table stlyle="border: none;">
 <tr>
@@ -43,13 +43,13 @@
 - [Shout Out To Some Awesome People](README.md#shout-out-to-some-awesome-people)
 - [Final Words Before I Let You Go](README.md#final-words-before-i-let-you-go)
 
-## Overview:
+# Overview:
 
 ## Lyra is a SFW Requiem modlist with a cozy and warm fantasy vibe; emphasizing exploration, challenge and fun! Built with Requiem Lite in mind. ❤️ — Powered by Wabbajack.
 
 ***
 
-## Requirements and Information
+# Requirements and Information
 
 
 - :warning: :exclamation: **"LYRA" REQUIRES THE FULL PAID UPDATE TO SKYRIM ANNIVERSARY EDITION. IT IS NOT/WILL NOT BE MADE COMPATIBLE WITH THE NON PAID UPDATE OR OLDER VERSIONS** :exclamation: :warning:
@@ -65,7 +65,7 @@
 
 ***
 
-## Recommended System Specifications
+# Recommended System Specifications
 
 ## **Lyra** requires a mid to high-tier modern system to run to its fullest potential. The recommended specs given below are based on utilizing the ENB in the list, and running the included VRAMr at Performance settings. For community shaders, you can subtract a little bit from them. Users have reported being able to run on hardware slightly lower than this, however your mileage may vary.
 > ### Space required: ~300GB
@@ -89,13 +89,13 @@
 
 ***
 
-## Installation
+# Installation
 
 ## Installing **Lyra** is relatively easy and, if you have Nexus Premium, will be a simple waiting game. If you are updating the modlist, you can safely skip to the [updating section](README.md#updating).
 
 ***
 
-## Pre-installation
+# Pre-installation
 
 > Prior to installing **Lyra**, please complete the following steps.
 
@@ -111,7 +111,7 @@
 
 ***
 
-  ## Wabbajack Installation
+# Wabbajack Installation
 
 > Once you have completed pre-installation, download the [Latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases) and place it in a folder such as `C:\Games\Wabbajack`. Do not place it in program files, on your desktop or in your downloads folder. I recommend placing it on an SSD as it will work quicker on there.
 
@@ -119,7 +119,7 @@
 
 ***
 
-## Downloading and Installing Lyra
+# Downloading and Installing Lyra
 
 Downloading and installing **Lyra** can take a while depending on your internet connection and computer. To install, complete the following steps.
 
@@ -134,17 +134,14 @@ Downloading and installing **Lyra** can take a while depending on your internet 
 
 ***
 
-## Problems with installation
+# Problems with installation
 
 > It is possible that you may encounter an error with Wabbajack when installing. Some common issues are listed below.
 
 - Could not download x:
 	- Big files or files hosted on metered connections like google drive can fail to download due to connection issues. You can either run Wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads.
 
-## Potentially Problematic Files
-
-> Here are links to files known to fail download. If the log mentions one or more of them please download from the link provided and drop the zipped folder in your download location for the installation then re-run Wabbajack
- 	- None yet
+# Potentially Problematic Files
 
 - ### If the log mentions ANYTHING starting with 'cc'
 	- Make sure you have downloaded all the Paid AE update content!
@@ -162,26 +159,26 @@ Downloading and installing **Lyra** can take a while depending on your internet 
     
 ***
 
-## Post Installation
+# Post Installation
 
-> Set your Affinity
+## Set your Affinity
 	-  In MO2 top left find the button that looks like puzzle pieces, and click on it.
 
-> Find: "Set CPU Affinity"
+## Find: "Set CPU Affinity"
 	- Click it and allow it to set the affinty for your processor.
 
--  *Congratulations you are now installed and ready for first start up.*
+>  *Congratulations you are now installed and ready for first start up.*
 
 ***
 
-## First Start up
+# First Start up
 
 - Open the installation folder and double-click on the program called `ModOrganizer.exe`. 
 - Make sure the dropdown box on the right is set to `Play "Lyra"` and press the `Run` button. 
 - This will start the game and bring you to the character creation menu.
 - After your character is created and you name them >>>
 
- ### The MCM Menu:
+ # The MCM Menu:
 
 - As of Version 0.0.6 the MCM is set up automatically. 
 - If you wish to find any MCM menus that are hidden, click on the very first option labeled "Lyra Menu Maid" and uncheck any of the menus that you're looking for. 
@@ -192,23 +189,23 @@ Downloading and installing **Lyra** can take a while depending on your internet 
 
 ***
 
-## Updating
+# Updating
 
 > Unless noted otherwise in the change log all Updates will be Save Safe Updating should be as simple as downloading the latest .wabbajack file for 'Lyra' from Nexus, and running it with the same MO2 and Downloads install paths as your existing installation making sure to check the 'overwrite installation' box in the bottom right corner.
 
-## About Adding More Tools:
+# About Adding More Tools:
 
 > All the tools you choose to install in addition to these need to link in the top right executable bar in MO2 so these programs can start from within the virtual file structure of MO2.
 This Wabbajack uses a file structure that contains a folder called 'Game Root' in the MO2 directory.
 This is where the game will run from. It will NOT run from Skyrim Special Editions Folder so ALL links to executables NEED to point to the Stock Folder in Arguements to work correctly.
  
 
-- Find this in MO2 executable bar under <EDIT....> then on the binary click the 3 dots and navigate to your file path for that exe to change this file paths to lead to your specific file install paths OR IT WILL NOT WORK. They are currently set for my file paths. Use those as a reference on how to set them up.
-- Good tutorial on how to set these up is here >>>> [Tutorial on setting up executables in stock folder](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/lessons/Setting%20up%20Stock%20Game%20for%20Skyrim%20SE.md#tool-setup)
+> Find this in MO2 executable bar under <EDIT....> then on the binary click the 3 dots and navigate to your file path for that exe to change this file paths to lead to your specific file install paths OR IT WILL NOT WORK. They are currently set for my file paths. Use those as a reference on how to set them up.
+> Good tutorial on how to set these up is here >>>> [Tutorial on setting up executables in stock folder](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/lessons/Setting%20up%20Stock%20Game%20for%20Skyrim%20SE.md#tool-setup)
 
 ***
 
-## Some Notes On Basic System Set Up:
+# Some Notes On Basic System Set Up:
 	
 > This mod list IS graphically taxing on the hardware but systems can run it if they have the room to breathe.
 I'm not going to hold your hand on this, and assume you know Google-fu for anything you don't understand here.
@@ -224,7 +221,7 @@ I'm not going to hold your hand on this, and assume you know Google-fu for anyth
 
 ***
 
-## Performance Tweaks
+# Performance Tweaks
 
 - Here are some things I recommend if your framerate is still suffering after applying the Performance VRAMr and following the notes on 'Basic system set up' above.
 
@@ -240,25 +237,25 @@ I'm not going to hold your hand on this, and assume you know Google-fu for anyth
 
 ***
 
-## Known Issues:
+# Known Issues:
 
 - None as of yet...
    
 ***
 
-## With MO2 Executables not working as intended
+# With MO2 Executables not working as intended
 
 - Find the tools folder within your MO2 installation folder, and the .exe of the application inside it's respective folder (Example: D:\Lyra\MO2\Tools\SSEedit) and Right click, then click Properties, then compatability and check "Run as administrator"
 
 ***
 
-## Removing the Mod List 
+# Removing the Mod List 
 
 - #### Simply delete the folder, and you have uninstalled it.
 
 ***
 
- ## Shout Out To Some Awesome People:
+# Shout Out To Some Awesome People:
 
 - You, for reading this 🙂
 - Ivy, for being so kind and motivating me to keep modding :)
@@ -271,7 +268,7 @@ I'm not going to hold your hand on this, and assume you know Google-fu for anyth
 
 ***
 
-## Final Words Before I Let You Go:
+# Final Words Before I Let You Go:
 
 - Since I consider this an Alpha, I just want to make it clear that this list is far from polished. 
 There is a lot of patching to be done, and many changes to consider still before I call this a 1.0 release.
