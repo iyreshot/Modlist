@@ -1,0 +1,39 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Lyra",
+    "description": "Lyra is a SFW Requiem modlist with a cozy and warm fantasy vibe; emphasizing exploration, challenge and fun! Built with Requiem Lite in mind. ❤️ — Powered by Wabbajack.",
+    "author": "iyreshot",
+    "maintainers": [
+      "github/iyreshot"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "SFW",
+      "Steam",
+      "Requiem"
+    ],
+    "nsfw": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/iyreshot/Modlist/refs/heads/main/lyra.png",
+      "readme": "https://github.com/iyreshot/Modlist",
+      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
+      "machineURL": "LyraRequiemWabba",
+      "discordURL": "https://discord.com/invite/QBcggWVJwS"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "TxjrQ94wsHI=",
+      "Size": 353443021,
+      "NumberOfArchives": 1207,
+      "SizeOfArchives": 103481935850,
+      "NumberOfInstalledFiles": 137425,
+      "SizeOfInstalledFiles": 129884298594
+    },
+    "version": "0.0.6"
+  }
+]
+
