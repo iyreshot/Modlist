@@ -49,13 +49,13 @@
 
 # Requirements and Information
 
-- ## ❗ ❗**"LYRA" REQUIRES THE FULL PAID UPDATE TO SKYRIM ANNIVERSARY EDITION. IT IS NOT/WILL NOT BE MADE COMPATIBLE WITH THE NON PAID UPDATE OR OLDER VERSIONS**❗❗ 
+-  ❗ ❗**"LYRA" REQUIRES THE FULL PAID UPDATE TO SKYRIM ANNIVERSARY EDITION. IT IS NOT/WILL NOT BE MADE COMPATIBLE WITH THE NON PAID UPDATE OR OLDER VERSIONS**❗❗ 
 
-- ## **Lyra** only supports **English Steam** versions of Skyrim Anniversary Edition. **GOG and other Languages are not supported**. The specific version used is 1.5.97 with the creation club content from 1.6.1170.
+-  **Lyra** only supports **English Steam** versions of Skyrim Anniversary Edition. **GOG and other Languages are not supported**. The specific version used is 1.5.97 with the creation club content from 1.6.1170.
 
-- ## Only, Windows 10 and 11 work with Wabbajack fully. LTSC, special variants, lightened editions or any other modified variant **WILL NOT WORK**. Your windows version **must be 21H2 or newer** to run both Wabbajack and **Lyra**.
+-  Only, Windows 10 and 11 work with Wabbajack fully. LTSC, special variants, lightened editions or any other modified variant **WILL NOT WORK**. Your windows version **must be 21H2 or newer** to run both Wabbajack and **Lyra**.
 
-- ## Running the list from Hard Disk Drives or external drives is **STRONGLY ADVISED AGAINST**. A lot of content is swapped at game run time and, as a result, fast storage and RAM are needed.
+-  Running the list from Hard Disk Drives or external drives is **STRONGLY ADVISED AGAINST**. A lot of content is swapped at game run time and, as a result, fast storage and RAM are needed.
 
 # Recommended System Specifications
 > ### **Lyra** requires a mid to high-tier modern system to run to its fullest potential. The recommended specs given below are based on utilizing the ENB in the list, and running the included VRAMr at Performance settings. For community shaders, you can subtract a little bit from them. Users have reported being able to run on hardware slightly lower than this, however your mileage may vary.
@@ -88,14 +88,14 @@
 
 > ## Prior to installing **Lyra**, please complete the following steps.
 
-## 1. Install [Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe) & [.Net Runtime v5 desktop x64](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
-## 2. Change Skyrim so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
-## 3. Fully uninstall Skyrim by deleting the folder and the Skyrim Special edition folder inside \Documents\My Games\.
-## 4. Fully disable OneDrive and any other programs which hook into user file areas.
-## 5. Reinstall Skyrim into a location that is not Program files. Somewhere like `C:\Games` is a good location. If you only have one drive, look into LostDragonist's [SteamLibrary tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide).
-## 6. Start the game once and let it do the graphics check. Do not worry about the settings as it will be replaced during installation.
-## 7. Launch the game to the main menu and allow it to download the paid addon files. **DO NOT VERIFY YOUR GAME FILES**
-## 8. Remove/Disable any 3rd party antivirus such as MalwareBytes or Webroot. These **will** mess with the installation and, in the case of the latter, causes more problems than it solves.
+### 1. Install [Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe) & [.Net Runtime v5 desktop x64](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
+### 2. Change Skyrim so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
+### 3. Fully uninstall Skyrim by deleting the folder and the Skyrim Special edition folder inside \Documents\My Games\.
+### 4. Fully disable OneDrive and any other programs which hook into user file areas.
+### 5. Reinstall Skyrim into a location that is not Program files. Somewhere like `C:\Games` is a good location. If you only have one drive, look into LostDragonist's [SteamLibrary tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide).
+### 6. Start the game once and let it do the graphics check. Do not worry about the settings as it will be replaced during installation.
+### 7. Launch the game to the main menu and allow it to download the paid addon files. **DO NOT VERIFY YOUR GAME FILES**
+### 8. Remove/Disable any 3rd party antivirus such as MalwareBytes or Webroot. These **will** mess with the installation and, in the case of the latter, causes more problems than it solves.
 
 ***
 
@@ -111,14 +111,14 @@
 
 Downloading and installing **Lyra** can take a while depending on your internet connection and computer. To install, complete the following steps.
 
-## 1. Go to the Nexus page and download the [wabbajack file](https://www.nexusmods.com/skyrimspecialedition/mods/118277)
-## 2. Download the file somewhere safe, then extract it.
-## 3. Open the wabbajack client, and select "Install from Disk". Set the target modlist to the Lyra.wabbajack file.
-## 4. Set the installation folder to be somewhere like C:\Lyra. **Do not install it to your desktop or downloads folder.**
-## 5. The download location does not need to be on a SSD but it makes installing a bit faster.
-## 6. Press the play button to begin.
-## 7. Go and pet your nearest fluffy animal whilst Wabbajack does its thing. Alternatively read through this readme again.
-## 8. If the installation is successful, jump for joy and move onto [post installation](#post-installation). If the installation is unsuccessful, follow what is below.
+### 1. Go to the Nexus page and download the [wabbajack file](https://www.nexusmods.com/skyrimspecialedition/mods/118277)
+### 2. Download the file somewhere safe, then extract it.
+### 3. Open the wabbajack client, and select "Install from Disk". Set the target modlist to the Lyra.wabbajack file.
+### 4. Set the installation folder to be somewhere like C:\Lyra. **Do not install it to your desktop or downloads folder.**
+### 5. The download location does not need to be on a SSD but it makes installing a bit faster.
+### 6. Press the play button to begin.
+### 7. Go and pet your nearest fluffy animal whilst Wabbajack does its thing. Alternatively read through this readme again.
+### 8. If the installation is successful, jump for joy and move onto [post installation](#post-installation). If the installation is unsuccessful, follow what is below.
 
 ***
 
