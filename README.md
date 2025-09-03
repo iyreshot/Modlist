@@ -97,7 +97,7 @@
 
 ## Pre-installation
 
-> ## Prior to installing **Lyra**, please complete the following steps.
+> Prior to installing **Lyra**, please complete the following steps.
 
 
 1. Install [Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe) & [.Net Runtime v5 desktop x64](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
