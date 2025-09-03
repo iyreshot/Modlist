@@ -140,11 +140,9 @@ Downloading and installing **Lyra** can take a while depending on your internet 
 # Post Installation
 
 ## Set your Affinity
--  ## In MO2 top left find the button that looks like puzzle pieces, and click on it.
-
+	- In MO2 top left find the button that looks like puzzle pieces, and click on it.
 ## Find: "Set CPU Affinity"
-- ## Click it and allow it to set the affinty for your processor.
-
+	- Click it and allow it to set the affinty for your processor.
 >  *Congratulations you are now installed and ready for first start up.*
 
 # First Start up
