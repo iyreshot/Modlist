@@ -42,11 +42,10 @@
 - [Removing the Mod List](README.md#removing-the-mod-list)
 - [Shout Out To Some Awesome People](README.md#shout-out-to-some-awesome-people)
 - [Final Words Before I Let You Go](README.md#final-words-before-i-let-you-go)
-***
 
 ## Overview:
 
-> # Lyra is a (soon to be Requiem) Skyrim modlist with a cozy and warm fantasy vibe; emphasizing exploration, challenge and fun—Powered by Wabbajack.
+## Lyra is a SFW Requiem modlist with a cozy and warm fantasy vibe; emphasizing exploration, challenge and fun! Built with Requiem Lite in mind. ❤️ — Powered by Wabbajack.
 
 ***
 
