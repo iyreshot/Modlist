@@ -138,7 +138,7 @@ Downloading and installing **Lyra** can take a while depending on your internet 
 
 > It is possible that you may encounter an error with Wabbajack when installing. Some common issues are listed below.
 
-- Could not download x:
+## Could not download x:
 	- Big files or files hosted on metered connections like google drive can fail to download due to connection issues. You can either run Wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads.
 
 # Potentially Problematic Files
