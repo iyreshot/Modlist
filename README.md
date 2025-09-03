@@ -82,8 +82,6 @@
 
 > Installing **Lyra** is relatively easy and, if you have Nexus Premium, will be a simple waiting game. If you are updating the modlist, you can safely skip to the [updating section](README.md#updating).
 
-***
-
 # Pre-installation
 
 >  Prior to installing **Lyra**, please complete the following steps.
@@ -97,15 +95,11 @@
  7. Launch the game to the main menu and allow it to download the paid addon files. **DO NOT VERIFY YOUR GAME FILES**
  8. Remove/Disable any 3rd party antivirus such as MalwareBytes or Webroot. These **will** mess with the installation and, in the case of the latter, causes more problems than it solves.
 
-***
-
 # Wabbajack Installation
 
 >  Once you have completed pre-installation, download the [Latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases) and place it in a folder such as `C:\Games\Wabbajack`. Do not place it in program files, on your desktop or in your downloads folder. I recommend placing it on an SSD as it will work quicker on there.
 
  - :warning: **NOTE**: **Lyra** will **always** require the latest version of Wabbajack **UNLESS IT IS SPECIFICALLY STATED HERE**. :warning:
-
-***
 
 # Downloading and Installing Lyra
 
@@ -119,8 +113,6 @@ Downloading and installing **Lyra** can take a while depending on your internet 
  6. Press the play button to begin.
  7. Go and pet your nearest fluffy animal whilst Wabbajack does its thing. Alternatively read through this readme again.
  8. If the installation is successful, jump for joy and move onto [post installation](#post-installation). If the installation is unsuccessful, follow what is below.
-
-***
 
 # Problems with installation
 
@@ -235,8 +227,6 @@ This is where the game will run from. It will NOT run from Skyrim Special Editio
 - Halgari, for creation of this wonderful tool
 - To everyone out there who supports the streams ❤❤
 
-***
-
 # Final Words Before I Let You Go:
 
 - Since I consider this an Alpha, I just want to make it clear that this list is far from polished. 
@@ -244,7 +234,6 @@ There is a lot of patching to be done, and many changes to consider still before
 So bare with me as this is just the beginning, I hope you enjoy the list!
 
 > -iyre
-***
 
 
 
