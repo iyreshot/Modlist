@@ -49,13 +49,13 @@
 
 # Requirements and Information
 
--  ❗ ❗**"LYRA" REQUIRES THE FULL PAID UPDATE TO SKYRIM ANNIVERSARY EDITION. IT IS NOT/WILL NOT BE MADE COMPATIBLE WITH THE NON PAID UPDATE OR OLDER VERSIONS**❗❗ 
+1.  ❗ ❗**"LYRA" REQUIRES THE FULL PAID UPDATE TO SKYRIM ANNIVERSARY EDITION. IT IS NOT/WILL NOT BE MADE COMPATIBLE WITH THE NON PAID UPDATE OR OLDER VERSIONS**❗❗ 
 
--  **Lyra** only supports **English Steam** versions of Skyrim Anniversary Edition. **GOG and other Languages are not supported**. The specific version used is 1.5.97 with the creation club content from 1.6.1170.
+2.  **Lyra** only supports **English Steam** versions of Skyrim Anniversary Edition. **GOG and other Languages are not supported**. The specific version used is 1.5.97 with the creation club content from 1.6.1170.
 
--  Only, Windows 10 and 11 work with Wabbajack fully. LTSC, special variants, lightened editions or any other modified variant **WILL NOT WORK**. Your windows version **must be 21H2 or newer** to run both Wabbajack and **Lyra**.
+3.  Only, Windows 10 and 11 work with Wabbajack fully. LTSC, special variants, lightened editions or any other modified variant **WILL NOT WORK**. Your windows version **must be 21H2 or newer** to run both Wabbajack and **Lyra**.
 
--  Running the list from Hard Disk Drives or external drives is **STRONGLY ADVISED AGAINST**. A lot of content is swapped at game run time and, as a result, fast storage and RAM are needed.
+4.  Running the list from Hard Disk Drives or external drives is **STRONGLY ADVISED AGAINST**. A lot of content is swapped at game run time and, as a result, fast storage and RAM are needed.
 
 # Recommended System Specifications
 > **Lyra** requires a mid to high-tier modern system to run to its fullest potential. The recommended specs given below are based on utilizing the ENB in the list, and running the included VRAMr at Performance settings. For community shaders, you can subtract a little bit from them. Users have reported being able to run on hardware slightly lower than this, however your mileage may vary.
@@ -121,59 +121,57 @@ Downloading and installing **Lyra** can take a while depending on your internet 
 ## Potentially Problematic Files
 
 - ### Could not download x:
-	-  Big files or files hosted on metered connections like google drive can fail to download due to connection issues. You can either run Wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads.
+	1.  Big files or files hosted on metered connections like google drive can fail to download due to connection issues. You can either run Wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads.
 
 - ### If the log mentions ANYTHING starting with 'cc'
-	-  Make sure you have downloaded all the Paid AE update content!
+	1.  Make sure you have downloaded all the Paid AE update content!
 
 - ### If the log specifically mentions 'Curios'
-	-  You did not follow the installation instructions!
-	- #Go back to [Pre-Installation](README.md#pre-installation) and follow it this time.
+	1.  You did not follow the installation instructions!
+	2. #Go back to [Pre-Installation](README.md#pre-installation) and follow it this time.
 
 - ### Wabbajack could not find my game folder:
-	-  Either buy the game or go back to the [Pre-Installation](README.md#pre-installation) step.
+	1.  Either buy the game or go back to the [Pre-Installation](README.md#pre-installation) step.
 
 - ### Antivirus reports a virus:
-	-  You did not follow the steps in [Pre-Installation](README.md#pre-installation). Go back and follow it.
-  	-  If you have followed it then you can fix this by [adding an exclusion for Mod Organizer in Windows Defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).   
+	1.  You did not follow the steps in [Pre-Installation](README.md#pre-installation). Go back and follow it.
+    2.  If you have followed it then you can fix this by [adding an exclusion for Mod Organizer in Windows Defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).   
 
 # Post Installation
 
 # Set your Affinity
- - In MO2 top left find the button that looks like puzzle pieces, and click on it.
- - Find: "Set CPU Affinity"
- - Click it and allow it to set the affinty for your processor.
+ 1. In MO2 top left find the button that looks like puzzle pieces, and click on it.
+ 2. Find: "Set CPU Affinity"
+ 3. Click it and allow it to set the affinty for your processor.
 >  *Congratulations you are now installed and ready for first start up.*
 
 # First Start up
 
--  Open the installation folder and double-click on the program called `ModOrganizer.exe`. 
--  Make sure the dropdown box on the right is set to `Play "Lyra"` and press the `Run` button. 
--  This will start the game and bring you to the character creation menu.
--  After your character is created and you name them >>>
+1.  Open the installation folder and double-click on the program called `ModOrganizer.exe`. 
+2.  Make sure the dropdown box on the right is set to `Play "Lyra"` and press the `Run` button. 
+3.  This will start the game and bring you to the character creation menu.
+4.  After your character is created and you name them >>>
 
  # The MCM Menu:
 
--  As of Version 0.0.6 the MCM is set up automatically. 
--  If you wish to find any MCM menus that are hidden, click on the very first option labeled "Lyra Menu Maid" and uncheck any of the menus that you're looking for. 
--  This mod is simply used to keep the MCM clean and organized.
+1.  As of Version 0.0.6 the MCM is set up automatically. 
+2.  If you wish to find any MCM menus that are hidden, click on the very first option labeled "Lyra Menu Maid" and uncheck any of the menus that you're looking for. 
+3.  This mod is simply used to keep the MCM clean and organized.
 
 
 > ❗ IT IS RECOMMENDED AT THIS TIME TO OPEN THE IN GAME MENU TO 'CONTROLS' AND CHANGE ANY KEY BINDINGS TO SUIT YOUR PERSONAL PREFERENCES Use This to find the number for the key you want to change something to >>>> [DirectX Scan Codes for ini values](https://gist.github.com/arithex/3e953d1eb096afe58ce05ba6846493e4) ❗
 
 # Updating
 
->  Unless noted otherwise in the change log all Updates will be Save Safe Updating should be as simple as downloading the latest .wabbajack file for 'Lyra' from Nexus, and running it with the same MO2 and Downloads install paths as your existing installation making sure to check the 'overwrite installation' box in the bottom right corner.
+ 1.  Unless noted otherwise in the change log all Updates will be Save Safe Updating should be as simple as downloading the latest .wabbajack file for 'Lyra' from Nexus, and running it with the same MO2 and Downloads install paths as your existing installation making sure to check the 'overwrite installation' box in the bottom right corner.
 
 # About Adding More Tools:
-
->  All the tools you choose to install in addition to these need to link in the top right executable bar in MO2 so these programs can start from within the virtual file structure of MO2.
+ 
+ 1.  All the tools you choose to install in addition to these need to link in the top right executable bar in MO2 so these programs can start from within the virtual file structure of MO2.
 This Wabbajack uses a file structure that contains a folder called 'Game Root' in the MO2 directory.
 This is where the game will run from. It will NOT run from Skyrim Special Editions Folder so ALL links to executables NEED to point to the Stock Folder in Arguements to work correctly.
- 
-
->  Find this in MO2 executable bar under <EDIT....> then on the binary click the 3 dots and navigate to your file path for that exe to change this file paths to lead to your specific file install paths OR IT WILL NOT WORK. They are currently set for my file paths. Use those as a reference on how to set them up.
-> A Good tutorial on how to set these up is here >>>> [Tutorial on setting up executables in stock folder](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/lessons/Setting%20up%20Stock%20Game%20for%20Skyrim%20SE.md#tool-setup)
+ 2.  Find this in MO2 executable bar under <EDIT....> then on the binary click the 3 dots and navigate to your file path for that exe to change this file paths to lead to your specific file install paths OR IT WILL NOT WORK. They are currently set for my file paths. Use those as a reference on how to set them up.
+ 3. A Good tutorial on how to set these up is here >>>> [Tutorial on setting up executables in stock folder](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/lessons/Setting%20up%20Stock%20Game%20for%20Skyrim%20SE.md#tool-setup)
 
 # Some Notes On Basic System Set Up:
 	
