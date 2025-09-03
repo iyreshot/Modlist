@@ -45,9 +45,7 @@
 
 # Overview:
 
-## Lyra is a SFW Requiem modlist with a cozy and warm fantasy vibe; emphasizing exploration, challenge and fun! Built with Requiem Lite in mind. ❤️ — Powered by Wabbajack.
-
-***
+> ## Lyra is a SFW Requiem modlist with a cozy and warm fantasy vibe; emphasizing exploration, challenge and fun! Built with Requiem Lite in mind. ❤️ — Powered by Wabbajack.
 
 # Requirements and Information
 
@@ -63,10 +61,7 @@
 
 - Running the list from Hard Disk Drives or external drives is **STRONGLY ADVISED AGAINST**. A lot of content is swapped at game run time and, as a result, fast storage and RAM are needed.
 
-***
-
 # Recommended System Specifications
-
 ## **Lyra** requires a mid to high-tier modern system to run to its fullest potential. The recommended specs given below are based on utilizing the ENB in the list, and running the included VRAMr at Performance settings. For community shaders, you can subtract a little bit from them. Users have reported being able to run on hardware slightly lower than this, however your mileage may vary.
 > ### Space required: ~300GB
 
@@ -87,8 +82,6 @@
 
 > See how to setup a page file here: https://www.tomshardware.com/news/how-to-manage-virtual-memory-pagefile-windows-10,36929.html :warning: **NOTE**: AMD RX 580 and older cards are **not supported**. :warning:
 
-***
-
 # Installation
 
 ## Installing **Lyra** is relatively easy and, if you have Nexus Premium, will be a simple waiting game. If you are updating the modlist, you can safely skip to the [updating section](README.md#updating).
@@ -98,7 +91,6 @@
 # Pre-installation
 
 > Prior to installing **Lyra**, please complete the following steps.
-
 
 1. Install [Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe) & [.Net Runtime v5 desktop x64](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
 2. Change Skyrim so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
@@ -139,7 +131,7 @@ Downloading and installing **Lyra** can take a while depending on your internet 
 > It is possible that you may encounter an error with Wabbajack when installing. Some common issues are listed below.
 
 ## Could not download x:
-	- Big files or files hosted on metered connections like google drive can fail to download due to connection issues. You can either run Wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads.
+> Big files or files hosted on metered connections like google drive can fail to download due to connection issues. You can either run Wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads.
 
 # Potentially Problematic Files
 
@@ -156,20 +148,16 @@ Downloading and installing **Lyra** can take a while depending on your internet 
 - ### Antivirus reports a virus:
 	- You did not follow the steps in [Pre-Installation](README.md#pre-installation). Go back and follow it.
   	- If you have followed it then you can fix this by [adding an exclusion for Mod Organizer in Windows Defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).   
-    
-***
 
 # Post Installation
 
 ## Set your Affinity
-	-  In MO2 top left find the button that looks like puzzle pieces, and click on it.
+-  In MO2 top left find the button that looks like puzzle pieces, and click on it.
 
 ## Find: "Set CPU Affinity"
-	- Click it and allow it to set the affinty for your processor.
+- Click it and allow it to set the affinty for your processor.
 
 >  *Congratulations you are now installed and ready for first start up.*
-
-***
 
 # First Start up
 
@@ -187,8 +175,6 @@ Downloading and installing **Lyra** can take a while depending on your internet 
 
 > ❗ IT IS RECOMMENDED AT THIS TIME TO OPEN THE IN GAME MENU TO 'CONTROLS' AND CHANGE ANY KEY BINDINGS TO SUIT YOUR PERSONAL PREFERENCES Use This to find the number for the key you want to change something to >>>> [DirectX Scan Codes for ini values](https://gist.github.com/arithex/3e953d1eb096afe58ce05ba6846493e4) ❗
 
-***
-
 # Updating
 
 > Unless noted otherwise in the change log all Updates will be Save Safe Updating should be as simple as downloading the latest .wabbajack file for 'Lyra' from Nexus, and running it with the same MO2 and Downloads install paths as your existing installation making sure to check the 'overwrite installation' box in the bottom right corner.
@@ -203,12 +189,9 @@ This is where the game will run from. It will NOT run from Skyrim Special Editio
 > Find this in MO2 executable bar under <EDIT....> then on the binary click the 3 dots and navigate to your file path for that exe to change this file paths to lead to your specific file install paths OR IT WILL NOT WORK. They are currently set for my file paths. Use those as a reference on how to set them up.
 > Good tutorial on how to set these up is here >>>> [Tutorial on setting up executables in stock folder](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/lessons/Setting%20up%20Stock%20Game%20for%20Skyrim%20SE.md#tool-setup)
 
-***
-
 # Some Notes On Basic System Set Up:
 	
-> This mod list IS graphically taxing on the hardware but systems can run it if they have the room to breathe.
-I'm not going to hold your hand on this, and assume you know Google-fu for anything you don't understand here.
+> This mod list IS graphically taxing on the hardware but systems can run it if they have the room to breathe. I'm not going to hold your hand on this, and assume you know Google-fu for anything you don't understand here.
 
  1. Turn off any start up programs or background programs that do not need to be on while running the game. There are guides on the web on how to go through Services.msc to trim the fat out of the Windows System Services.
  2. Strip that graphics driver down of any AA, AO, AF settings (Turn off) as those effects will be handled by the game engine or the ENB. 
@@ -219,11 +202,9 @@ I'm not going to hold your hand on this, and assume you know Google-fu for anyth
  7. Go to system settings and set virtual memory on the drive the mod organizer is on at 40GB min and 40GB Max. Save and restart. This will be your swap file and supplement the VRAM if needed.
  8. Make sure your power plan is set for High performance and **NOT** balanced or power saver
 
-***
-
 # Performance Tweaks
 
-- Here are some things I recommend if your framerate is still suffering after applying the Performance VRAMr and following the notes on 'Basic system set up' above.
+> Here are some things I recommend if your framerate is still suffering after applying the Performance VRAMr and following the notes on 'Basic system set up' above.
 
  1. Run BethINI (included tool) and choose a lower preset setting like Medium. The default is High. Be sure to NOT use Ambient Occusion, Screen Space Reflections, and turn Tree LOD Distance to '0'. These effects are being handled by Reshade, ENB, and DynDOLOD. Remember DO NOT DOUBLE UP ON EFFECTS! It will cost twice the frame cost with no change in visuals! 
  2. Turn the settings on the effects in ENB to low or medium (default is high/Very high). These are in the left pane when you open ENB and can be seen when expanding each effect individually.
@@ -235,25 +216,17 @@ I'm not going to hold your hand on this, and assume you know Google-fu for anyth
 
    > ❗  Lowering this value too much WILL make the Wheeler menu partially off screen so test any changes ❗ This will reduce the resolution but also decrease the amount of pixels the game needs to render helping frame rate. Try to find a happy medium between graphical fidelity and FPS. ❗
 
-***
-
 # Known Issues:
 
 - None as of yet...
-   
-***
 
 # With MO2 Executables not working as intended
 
 - Find the tools folder within your MO2 installation folder, and the .exe of the application inside it's respective folder (Example: D:\Lyra\MO2\Tools\SSEedit) and Right click, then click Properties, then compatability and check "Run as administrator"
 
-***
-
 # Removing the Mod List 
 
-- #### Simply delete the folder, and you have uninstalled it.
-
-***
+- Simply delete the folder, and you have uninstalled it.
 
 # Shout Out To Some Awesome People:
 
