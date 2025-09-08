@@ -1,5 +1,5 @@
 
-![](https://github.com/iyreshot/Modlist/blob/main/Logo_16x9.png)
+![](https://github.com/iyreshot/Modlist/blob/main/logo.png)
 
 
 # Version 0.0.6 ~ by iyreshot
