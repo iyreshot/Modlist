@@ -87,7 +87,7 @@
 
 # ⚠️ Problems with installation
 
-> It is possible that you may encounter an error with Wabbajack when installing. Some common issues are listed below.
+### > It is possible that you may encounter an error with Wabbajack when installing. Some common issues are listed below.
 
  1. Could not download specific files:
 > Big files or files hosted on metered connections like google drive can fail to download due to connection issues. You can either run Wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads.
@@ -102,14 +102,14 @@
 
 # 🚩 Post Installation
 
-# 📐 Set your Affinity
+### 📐 Set your Affinity
  1. In MO2 top left find the button that looks like puzzle pieces, and click on it.
  2. Find: "Set CPU Affinity"
  3. Click it and allow it to set the affinty for your processor.
 
 >  *Congratulations you are now installed and ready for first start up.*
 
-# 🥇 First Start up
+### 🥇 First Start up
 
 1.  Open the installation folder and double-click on the program called `ModOrganizer.exe`. 
 2.  Make sure the dropdown box on the right is set to `Play "Lyra"` and press the `Run` button. 
@@ -117,7 +117,7 @@
 4.  Enjoy!
 
 
-# 👆 Updating
+### 👆 Updating
 
  1.  Unless noted otherwise in the change log all Updates will be Save Safe Updating should be as simple as downloading the latest .wabbajack file for 'Lyra' from Nexus, and running it with the same MO2 and Downloads install paths as your existing installation making sure to check the 'overwrite installation' box in the bottom right corner.
 
