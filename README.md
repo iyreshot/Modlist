@@ -70,13 +70,11 @@
 
 # ✍️ Wabbajack Installation
 
->  Once you have completed pre-installation, download the [Latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases) and place it in a folder such as `C:\Games\Wabbajack`. Do not place it in program files, on your desktop or in your downloads folder. I recommend placing it on an SSD as it will work quicker on there.
-
- - :warning: **NOTE**: **Lyra** will **always** require the latest version of Wabbajack **UNLESS IT IS SPECIFICALLY STATED HERE**. :warning:
+>  Once you have completed pre-installation, download the [Latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases) and place it in a folder such as `C:\Games\Wabbajack`. Do not place it in program files, on your desktop or in your downloads folder. I recommend placing it on an SSD as it will work quicker on there. **NOTE**: **Lyra** will **always** require the latest version of Wabbajack **UNLESS IT IS SPECIFICALLY STATED HERE**.
 
 # 🔧 Downloading and Installing Lyra
 
-Downloading and installing **Lyra** can take a while depending on your internet connection and computer. To install, complete the following steps.
+> Downloading and installing **Lyra** can take a while depending on your internet connection and computer. To install, complete the following steps.
 
  1. Go to the Nexus page and download the [wabbajack file](https://www.nexusmods.com/skyrimspecialedition/mods/118277)
  2. Download the file somewhere safe, then extract it.
@@ -89,24 +87,13 @@ Downloading and installing **Lyra** can take a while depending on your internet 
 
 # ⚠️ Problems with installation
 
-> ### It is possible that you may encounter an error with Wabbajack when installing. Some common issues are listed below.
+> It is possible that you may encounter an error with Wabbajack when installing. Some common issues are listed below.
 
-- ### Could not download x:
-	1.  Big files or files hosted on metered connections like google drive can fail to download due to connection issues. You can either run Wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads.
-
-- ### If the log mentions ANYTHING starting with 'cc'
-	1.  Make sure you have downloaded all the Paid AE update content!
-
-- ### If the log specifically mentions 'Curios'
-	1.  You did not follow the installation instructions!
-	2. #Go back to [Pre-Installation](README.md#pre-installation) and follow it this time.
-
-- ### Wabbajack could not find my game folder:
-	1.  Either buy the game or go back to the [Pre-Installation](README.md#pre-installation) step.
-
-- ### Antivirus reports a virus:
-	1.  You did not follow the steps in [Pre-Installation](README.md#pre-installation). Go back and follow it.
-    2.  If you have followed it then you can fix this by [adding an exclusion for Mod Organizer in Windows Defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).   
+ 1. Could not download specific files: Big files or files hosted on metered connections like google drive can fail to download due to connection issues. You can either run Wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads.
+ 2.  If the log mentions ANYTHING starting with 'cc': Make sure you have downloaded all the Paid AE update content!
+ 3. If the log specifically mentions 'Curios': You did not follow the installation instructions! Go back to [Pre-Installation](README.md#pre-installation) and follow it this time.
+ 4. Wabbajack could not find my game folder: Either buy the game or go back to the [Pre-Installation](README.md#pre-installation) step.
+ 5. Antivirus reports a virus: You did not follow the steps in [Pre-Installation](README.md#pre-installation). Go back and follow it. If you have followed it then you can fix this by [adding an exclusion for Mod Organizer in Windows Defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).   
 
 # 🚩 Post Installation
 
@@ -114,14 +101,15 @@ Downloading and installing **Lyra** can take a while depending on your internet 
  1. In MO2 top left find the button that looks like puzzle pieces, and click on it.
  2. Find: "Set CPU Affinity"
  3. Click it and allow it to set the affinty for your processor.
+
 >  *Congratulations you are now installed and ready for first start up.*
 
-# First Start up
+# 🥇 First Start up
 
 1.  Open the installation folder and double-click on the program called `ModOrganizer.exe`. 
 2.  Make sure the dropdown box on the right is set to `Play "Lyra"` and press the `Run` button. 
-3.  This will start the game and bring you to the character creation menu.
-4.  After your character is created and you name them >>>
+3.  This will start the game and bring you to the main menu
+4.  Enjoy!
 
 
 # 👆 Updating
