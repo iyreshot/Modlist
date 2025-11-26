@@ -55,11 +55,7 @@
 
 > See how to setup a page file here: https://www.tomshardware.com/news/how-to-manage-virtual-memory-pagefile-windows-10,36929.html :warning: **NOTE**: AMD RX 580 and older cards are **not supported**. :warning:
 
-# Installation
-
-> Installing **Lyra** is relatively easy and, if you have Nexus Premium, will be a simple waiting game. If you are updating the modlist, you can safely skip to the [updating section](README.md#updating).
-
-# Pre-installation
+# 🎯 Pre-installation
 
 >  Prior to installing **Lyra**, please complete the following steps.
 
