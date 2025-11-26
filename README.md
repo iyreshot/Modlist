@@ -21,10 +21,10 @@
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
-# Overview:
+# ❤️ Overview:
 > Lyra is a SFW Requiem modlist with a cozy and warm fantasy vibe; emphasizing exploration, challenge and fun! Built with Requiem Lite in mind. ❤️ — Powered by Wabbajack.
 
-# Requirements and Information
+# 📃 Requirements and Information
 
 1.  ❗ ❗**"LYRA" REQUIRES THE FULL PAID UPDATE TO SKYRIM ANNIVERSARY EDITION. IT IS NOT/WILL NOT BE MADE COMPATIBLE WITH THE NON PAID UPDATE OR OLDER VERSIONS**❗❗ 
 
@@ -34,7 +34,7 @@
 
 4.  Running the list from Hard Disk Drives or external drives is **STRONGLY ADVISED AGAINST**. A lot of content is swapped at game run time and, as a result, fast storage and RAM are needed.
 
-# Recommended System Specifications
+# 💻 Recommended System Specifications
 > **Lyra** requires a mid to high-tier modern system to run to its fullest potential. The recommended specs given below are based on utilizing the ENB in the list, and running the included VRAMr at Performance settings. For community shaders, you can subtract a little bit from them. Users have reported being able to run on hardware slightly lower than this, however your mileage may vary.
 
 > ### Space required: ~300GB
@@ -68,13 +68,13 @@
  7. Launch the game to the main menu and allow it to download the paid addon files. **DO NOT VERIFY YOUR GAME FILES**
  8. Remove/Disable any 3rd party antivirus such as MalwareBytes or Webroot. These **will** mess with the installation and, in the case of the latter, causes more problems than it solves.
 
-# Wabbajack Installation
+# ✍️ Wabbajack Installation
 
 >  Once you have completed pre-installation, download the [Latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases) and place it in a folder such as `C:\Games\Wabbajack`. Do not place it in program files, on your desktop or in your downloads folder. I recommend placing it on an SSD as it will work quicker on there.
 
  - :warning: **NOTE**: **Lyra** will **always** require the latest version of Wabbajack **UNLESS IT IS SPECIFICALLY STATED HERE**. :warning:
 
-# Downloading and Installing Lyra
+# 🔧 Downloading and Installing Lyra
 
 Downloading and installing **Lyra** can take a while depending on your internet connection and computer. To install, complete the following steps.
 
@@ -87,7 +87,7 @@ Downloading and installing **Lyra** can take a while depending on your internet 
  7. Go and pet your nearest fluffy animal whilst Wabbajack does its thing. Alternatively read through this readme again.
  8. If the installation is successful, jump for joy and move onto [post installation](#post-installation). If the installation is unsuccessful, follow what is below.
 
-# Problems with installation
+# ⚠️ Problems with installation
 
 > ### It is possible that you may encounter an error with Wabbajack when installing. Some common issues are listed below.
 
@@ -108,7 +108,7 @@ Downloading and installing **Lyra** can take a while depending on your internet 
 	1.  You did not follow the steps in [Pre-Installation](README.md#pre-installation). Go back and follow it.
     2.  If you have followed it then you can fix this by [adding an exclusion for Mod Organizer in Windows Defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).   
 
-# Post Installation
+# 🚩 Post Installation
 
 # Set your Affinity
  1. In MO2 top left find the button that looks like puzzle pieces, and click on it.
@@ -124,16 +124,16 @@ Downloading and installing **Lyra** can take a while depending on your internet 
 4.  After your character is created and you name them >>>
 
 
-# Updating
+# 👆 Updating
 
  1.  Unless noted otherwise in the change log all Updates will be Save Safe Updating should be as simple as downloading the latest .wabbajack file for 'Lyra' from Nexus, and running it with the same MO2 and Downloads install paths as your existing installation making sure to check the 'overwrite installation' box in the bottom right corner.
 
 
-# Removing the Mod List 
+# 🗑️ Removing the Mod List 
 
 -  Simply delete the folder, and you have uninstalled it.
 
-# Shout Out To Some Awesome People:
+# 🗣️ Shout Out To Some Awesome People:
 
 - You, for reading this 🙂
 - Ivy, for being so kind and motivating me to keep modding :)
@@ -144,7 +144,7 @@ Downloading and installing **Lyra** can take a while depending on your internet 
 - Halgari, for creation of this wonderful tool
 - To everyone out there who supports the streams ❤❤
 
-# Final Words Before I Let You Go:
+# 🌜 Final Words Before I Let You Go:
 
 - Since I consider this an Alpha, I just want to make it clear that this list is far from polished. 
 There is a lot of patching to be done, and many changes to consider still before I call this a 1.0 release.
