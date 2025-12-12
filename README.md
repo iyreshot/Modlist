@@ -87,7 +87,7 @@
 
 # ⚠️ Problems with installation
 
-### > It is possible that you may encounter an error with Wabbajack when installing. Some common issues are listed below.
+> ### It is possible that you may encounter an error with Wabbajack when installing. Some common issues are listed below.
 
  1. Could not download specific files:
 > Big files or files hosted on metered connections like google drive can fail to download due to connection issues. You can either run Wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads.
@@ -124,7 +124,7 @@
 
 # 🗑️ Removing the Mod List 
 
--  Simply delete the folder, and you have uninstalled it.
+ 1.  Simply delete the folder, and you have uninstalled it.
 
 # 🗣️ Shout Out To Some Awesome People:
 
