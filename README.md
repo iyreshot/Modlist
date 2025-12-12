@@ -28,7 +28,7 @@
 
 1.  **LYRA REQUIRES THE FULL PAID UPDATE TO SKYRIM ANNIVERSARY EDITION. IT IS NOT/WILL NOT BE MADE COMPATIBLE WITH THE NON PAID UPDATE OR OLDER VERSIONS**
 
-2.  **Lyra** only supports **English Steam** versions of Skyrim Anniversary Edition. **GOG and other Languages are not supported**. The specific version used is 1.5.97 with the creation club content from 1.6.1170.
+2.  **ONLY SUPPORTS ENGLISH STEAM VERSIONS OF SKYRIM ANNIVERVARY EDITION. GOG and other languages are not supported**. The specific version used with this modlist is 1.6.1170.
 
 3.  Only, Windows 10 and 11 work with Wabbajack fully. LTSC, special variants, lightened editions or any other modified variant **WILL NOT WORK**. Your windows version **must be 21H2 or newer** to run both Wabbajack and **Lyra**.
 
