@@ -87,18 +87,22 @@
 
 # ⚠️ Problems with installation
 
-> ### It is possible that you may encounter an error with Wabbajack when installing. Some common issues are listed below.
+ ### It is possible that you may encounter an error with Wabbajack when installing. Some common issues are listed below.
 
- 1. Could not download specific files:
-> Big files or files hosted on metered connections like google drive can fail to download due to connection issues. You can either run Wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads.
- 3.  If the log mentions ANYTHING starting with 'cc':
-> Make sure you have downloaded all the Paid AE update content!
- 4. If the log specifically mentions 'Curios':
-> You did not follow the installation instructions! Go back to [Pre-Installation](README.md#pre-installation) and follow it this time.
- 5. Wabbajack could not find my game folder:
-> Either buy the game or go back to the [Pre-Installation](README.md#pre-installation) step.
- 6. Antivirus reports a virus:
-> You did not follow the steps in [Pre-Installation](README.md#pre-installation). Go back and follow it. If you have followed it then you can fix this by [adding an exclusion for Mod Organizer in Windows Defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).   
+ **ISSUE:** Could not download specific files:
+ *SOLUTION:* Big files or files hosted on metered connections like google drive can fail to download due to connection issues. You can either run Wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads.
+ 
+ **ISSUE:**  If the log mentions ANYTHING starting with 'cc':
+ *SOLUTION:* Make sure you have downloaded all the Paid AE update content!
+ 
+ **ISSUE:** If the log specifically mentions 'Curios':
+ *SOLUTION:* You did not follow the installation instructions! Go back to [Pre-Installation](README.md#pre-installation) and follow it this time.
+
+ **ISSUE:** Wabbajack could not find my game folder:
+ *SOLUTION:* Either buy the game or go back to the [Pre-Installation](README.md#pre-installation) step.
+ 
+ **ISSUE:** Antivirus reports a virus:
+ *SOLUTION:* You did not follow the steps in [Pre-Installation](README.md#pre-installation). Go back and follow it. If you have followed it then you can fix this by [adding an exclusion for Mod Organizer in Windows Defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).   
 
 # 🚩 Post Installation
 
