@@ -18,7 +18,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/iyreshot/Modlist/refs/heads/main/logo.png",
+      "image": "https://raw.githubusercontent.com/iyreshot/Modlist/main/logo.png",
       "readme": "https://github.com/iyreshot/Modlist",
       "download": "https://authored-files.wabbajack.org/Lyra.wabbajack_172779bc-1f0c-49ba-9d99-bd0aeb563b02",
       "machineURL": "LyraRequiemWabba",
