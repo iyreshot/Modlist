@@ -83,7 +83,7 @@
  5. The download location is set by default but can be relocated elsewhere if you'd like. (The downloads specifically do not need to be on a SSD but it makes installing a bit faster.)
  6. Press install in the bottom right corner 
  7. Go and pet your nearest fluffy animal whilst Wabbajack does its thing. Alternatively read through this readme again.
- 8. If the installation is successful, jump for joy and move onto [post installation](# 🚩 Post Installation). If the installation is unsuccessful, follow what is below.
+ 8. If the installation is successful, jump for joy and move onto [post installation](#-post-installation). If the installation is unsuccessful, follow what is below.
 
 # ⚠️ Problems with installation
 
