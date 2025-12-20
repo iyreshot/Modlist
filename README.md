@@ -76,14 +76,14 @@
 
 > Downloading and installing **Lyra** can take a while depending on your internet connection and computer. To install, complete the following steps.
 
- 1. Go to the Nexus page and download the [wabbajack file](https://www.nexusmods.com/skyrimspecialedition/mods/118277)
- 2. Download the file somewhere safe, then extract it.
- 3. Open the wabbajack client, and select "Install from Disk". Set the target modlist to the Lyra.wabbajack file.
- 4. Set the installation folder to be somewhere like C:\Lyra. **Do not install it to your desktop or downloads folder.**
- 5. The download location does not need to be on a SSD but it makes installing a bit faster.
- 6. Press the play button to begin.
+ 1. Download wabbajack [here](https://www.wabbajack.org/)
+ 2. Navigate to the Browse Lists tab and select the "Not Featured" tab on the left side.
+ 3. Scroll or search for Lyra using the provided search feature.
+ 4. Press "Download and Install" then set the installation folder to be somewhere like C:\Lyra. **Do not install it to your desktop or downloads folder.**
+ 5. The download location is set by default but can be relocated elsewhere if you'd like. (The downloads specifically do not need to be on a SSD but it makes installing a bit faster.)
+ 6. Press install in the bottom right corner 
  7. Go and pet your nearest fluffy animal whilst Wabbajack does its thing. Alternatively read through this readme again.
- 8. If the installation is successful, jump for joy and move onto [post installation](#post-installation). If the installation is unsuccessful, follow what is below.
+ 8. If the installation is successful, jump for joy and move onto [post installation](# 🚩 Post Installation). If the installation is unsuccessful, follow what is below.
 
 # ⚠️ Problems with installation
 
