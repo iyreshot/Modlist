@@ -1,3 +1,29 @@
+# **0.2.1**
+<Details>
+  
+>## **ADDED:**
+- Wheeler (Show in UI)
+
+>## **TWEAKED/FIXED:**
+- Solitude tree blocking path removed
+- Snowy vendor cart parallax issue
+- Floating bone alarms
+- Various NR Fixes
+- Various Tree Fixes
+- Floating lanterns in Solitude
+- Conflicitng records with Req Lite
+- Re-enabled Requiem Lite by default (my bad) and tweaked damage outputs slightly
+- Changed a bedroll added by Lux Via from static to usable 
+- Fixed snow shader on snowy woodpiles
+- Quickloot is now disabled by default (ignore the .esp warning if you get it)
+- Dawnfire ENB, water mudiness adjusted slightly
+
+>## **PATCHED:**
+- USMP head data records forwarded for Requiem
+- Healing Poutlice now uses lesser potion model, is now slightly better and also has more chance of showing up.
+- CC Crossbows with Requiem
+</Details>
+
 # **0.2.0**
 <Details>
   
@@ -147,4 +173,3 @@
 
 - Patched CC Pets for ETAC Rorikstead
 </Details>
-
