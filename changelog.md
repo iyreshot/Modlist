@@ -1,5 +1,5 @@
 # **0.2.0**
-
+<Details>
 >## **BULK ADDED:**
 - 2K Deer Skull and Antlers
 - Ancient Dwemer Metal
@@ -145,3 +145,4 @@
 - Dwemer Water Wheels - Markarth Outskirts patch
 
 - Patched CC Pets for ETAC Rorikstead
+</Details>
