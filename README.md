@@ -8,7 +8,7 @@
 <tr>
 <td><a href="https://www.nexusmods.com/skyrimspecialedition/mods/118277">Nexus Page</a></td>
 <td><a href="https://www.wabbajack.org/">Download Wabbajack</a></td>	
-<td><a href="https://loadorderlibrary.com/lists/lyra-a-fantasy-skyrim-modlist">Load Order Library</a></td>
+<td><a href="https://loadorderlibrary.com/lists/lyra">Load Order Library</a></td>
 <td><a href="https://discord.com/invite/7ePVFvV58n">Discord</a></td>
 </tr>
 </table>
