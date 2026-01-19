@@ -1,3 +1,149 @@
+# **0.3.0**
+<Details>
+  
+>## **ADDED:**
+- Aela Replacer by AlenVex Your Textures
+- Alternate Riften
+- An Abstract Skyrim - Jorrvaskr Reinforcements/Hall of the Dead/Dragonsreach - Entrance/
+- BFCO Eskyrim's Sprint Attacks - For Honor Version
+- BeastHHBB - Player Character only
+- Better Chests 2K Optimised SSE
+- Children of the Hist - An Argonian NPC Overhaul
+- DrJacopo's - 3D Maple Tree
+- Dynamic Activation Key - DLL NG Edition
+- Faction Armors and Weapons Retexture SE
+- Gleaming Glaciers
+- Grand Solitude - The Walls of High King Erling Fixed and Optimized
+- HDT SMP Fluffy Beast Race Tails
+- Happy Little Trees (yes im doing this again)
+- MLO 2
+- Meat Pie 1K by iimVampy
+- Medieval Markets 
+- Missives
+- Mjoll Replacer by AlenVex
+- Parry For All
+- Pause Menu After Load Screen
+- RaceMenu - Argonian Creation Extended
+- RaceMenu - K.C.C.E Khajiit Character Creation Extended
+- Requiem - Food and Beverages Redone
+- Rudy HQ - ENB Complex Material for Silverware
+- Ryn's Western Watchtower
+- Simple Fishing Overhaul
+- Simplicity of Snow 
+- Skyking Carriages
+- Skyking Potent Potables - No ENB Glow
+- Skyrim Food Expansion
+- Snoblind
+- Sons of Skyrim - Smaller Shields on back
+- Standing Stones - s6o6t LORE
+- Starter Kits for Starting Choices
+- The Great City of Winterhold - Optimized Meshes
+- Touch of Detail - Chicken Coops
+- Ultra HD Apple Pies - 1K
+- Unique Northern Vanilla Farmhouses - Non Snowy Regions
+- Witcherun - A Verdant Whiterun Overhaul
+- Word Wall Transparency Fix for ENB
+- 
+
+>## **INTERIORS:**
+- JK's Extravigant Blue Palace Terrace Combo
+- JK's Jorrvaskr
+- JK's Temple of Kynareth/GGs Combo
+- JK's The Drunken Huntsman
+- JK's/Redbags/Snazzy's Dragonsreach Combo
+- JK's/Snazzy's Palace of the Kings Combo
+- Riverwood Trader Is A Mess
+- Ryn's Hod and Gerdur's House
+- Ryn's Riverwood Trader
+- Ryn's Sven's and Hilde's House
+- The JK's Interiors of EEK's Whiterun Combo
+
+>## **ANIMATIONS:**
+- 1st Person Interact Animation Teleport Bug Fix
+- Assorted Behavior Fixes
+- Immersive Interactions - Animated Actions
+- JellyFish ELDER SCROLL
+- JellyFish Ultimate Animated Potions NG
+- JellyFishFP TORCH
+- SIGMA Series First Person Animations
+- Vanilla Attack Annotation Fix
+
+>## **UPDATED:**
+- ALT - Markarth's Forge
+- Alternate Perspective
+- BFCO - NG
+- Cabbage ENB
+- DALC Fix Preset 
+- DynDOLOD Resources SE and base tool.
+- ENB Anti-Aliasing - AMD FSR 3.1 - NVIDIA DLAA
+- ENB Of the Elders
+- Embers XD
+- For Honor in Skyrim
+- Grand Solitude - Patch Collection
+- Icy Mesh Remaster
+- Ivy's Riverwood Overhaul
+- JK's - ClefJ's Fort Dawnguard
+- JellyFishFP - Dagger Animation
+- KreatE
+- Lux Orbis Patch Hub
+- Lux Patch Hub
+- Natural Waterfalls
+- Requiem - Blessings Redone - Addon
+- S.T.A.R. (So This Aint Right) - Patch Hub
+- Simple Timed Block
+- Undeniable's Requiem Patch Compendium
+- Vanaheimr Landscapes - AIO 1K
+- Water for ENB
+- powerofthree's Papyrus Extender
+
+>## **ARMOR AND CLOTHING:**
+- 4th Unknown Dark Brotherhood - Only for Ancient Shrouded
+- Common Clothing Expansion (custom patched for vanilla farm clothes)
+- Southbound Scouts
+
+>## **REMOVED:**
+- ALT - Riften Well
+- Auto Parallax
+- Better Dynamic Snow
+- BloodMoon - SerketHetyt's Aela Overhaul
+- Boring Standing Stones
+- Comprehensive Attack Rate Patch - SKSE
+- Dark Brotherhood Armors Retexture SE
+- Dark Brotherhood Armors Retexture SE
+- Dawnguard Armors and Weapons Retexture SE
+- Dawnguard Armors and Weapons Retexture SE
+- Diverse Chicken Coops
+- Diverse Foods BOS
+- Eyes Nouveaux - Daedra and Devotees
+- Eyes Nouveaux - Good
+- FYX Windhelm Graveyard
+- Forsworn Armors and Weapons Retexture SE
+- Gemstones Replacers HD SE 1K - Kagrumez
+- Grand Solitude - Blary's Booksets Optimized
+- JellyFishFP - Potions NG
+- Lionheart - SerketHetyt's Mjoll Overhaul
+- Lydia of Whiterun - SerketHetyt's Housecarls
+- NOTWL Nordic Cut
+- Nightingale Armor and Weapons Retexture SE
+- Nightingale Armor and Weapons Retexture SE
+- Paraglider One Plus (Replaced with no quest version)
+- Scallions of Skyrim - High Polygon Leeks
+- Sekiro Combat S
+- Skypatcher (wasnt using it and dont want to)
+- Skyrim 3D Furniture - SMIM Patch
+- Snazzy Diverse Carriages - Base Object Swapper
+- Temple of Talos BOS
+- Thieves Guild Armors Retexture SE
+- Thieves Guild Armors Retexture SE
+- Vampire Armors and Weapons Retexture SE
+- slightly Better Honey Nut Treat
+
+>## **MISC:**
+- Unhid a bunch of flora from excess plants
+- Redid trees again
+- Patched a metric ton of stuff, literally too much to name.
+</Details>
+
 # **0.2.1**
 <Details>
   
@@ -170,6 +316,5 @@
 - JK Skyrim stripped down to only use Windhelm records
 - Armor and Outfit distribution
 - Dwemer Water Wheels - Markarth Outskirts patch
-
 - Patched CC Pets for ETAC Rorikstead
 </Details>
