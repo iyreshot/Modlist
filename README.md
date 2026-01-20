@@ -136,7 +136,7 @@
 - Ivy, for being so kind and motivating me to keep modding :)
 - Gears, for being amazing
 - Anna and Meg, you are the best ever!
-- Althro, for the wonderful ANVIL modlist that I built this from. It helped jumpstart the list and without it I may never have started this.
+- Biggie for making Baseline, which I used to jumpstart my list.
 - Althros, for writing the license.
 - Halgari, for creation of this wonderful tool
 - To everyone out there who supports the streams ❤❤
