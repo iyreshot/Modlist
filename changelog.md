@@ -1,6 +1,6 @@
 # **0.3.0**
 <Details>
-  
+
 >## **ADDED:**
 - Aela Replacer by AlenVex Your Textures
 - Alternate Riften
@@ -43,7 +43,10 @@
 - Unique Northern Vanilla Farmhouses - Non Snowy Regions
 - Witcherun - A Verdant Whiterun Overhaul
 - Word Wall Transparency Fix for ENB
-- 
+- TMD Rift Leaves
+- Immersive 3d Leaves (meshes only)
+- Locking Script Optimization - Lock Bashing - SSLR
+- CC Umbra Reduced Cut
 
 >## **INTERIORS:**
 - JK's Extravigant Blue Palace Terrace Combo
@@ -95,7 +98,9 @@
 - Vanaheimr Landscapes - AIO 1K
 - Water for ENB
 - powerofthree's Papyrus Extender
-
+- Requiem - Automated Simple Start
+- 
+ 
 >## **ARMOR AND CLOTHING:**
 - 4th Unknown Dark Brotherhood - Only for Ancient Shrouded
 - Common Clothing Expansion (custom patched for vanilla farm clothes)
@@ -318,3 +323,4 @@
 - Dwemer Water Wheels - Markarth Outskirts patch
 - Patched CC Pets for ETAC Rorikstead
 </Details>
+
