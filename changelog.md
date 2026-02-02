@@ -1,3 +1,14 @@
+# **0.3.1**
+<Details>
+ 
+- Fixed player head for male 
+- Fixed Alternate Start dragon sound
+- Fixed Alternate Start note 
+- Fixed flower names for Alch ingredients 
+- Wheeler is now set to G by default for those who prefer vanilla favorites on Q. (Seperate INI file included for those who like wheeler on Q is in "HUD and UI options)
+- Favorites key defaulted to Q
+</Details>
+
 # **0.3.0**
 <Details>
 
@@ -323,4 +334,5 @@
 - Dwemer Water Wheels - Markarth Outskirts patch
 - Patched CC Pets for ETAC Rorikstead
 </Details>
+
 
