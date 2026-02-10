@@ -1,8 +1,11 @@
 # **0.4.0 - The Silent Update** 
 <Details>
-IMPORTANT PLEASE READ - THIS VERSION IS NOT SAVE SAFE
+# **IMPORTANT PLEASE READ - THIS VERSION IS NOT SAVE SAFE**
  
-MAIN REASON FOR THIS VERSION: I messed up the compilation and made the list unplayable. It is now playable but I was mid dev on this update when I realized the issue. The modlist is fine, however it set me back a little bit and some towns are now vanilla until next version.
+## **MAIN REASON FOR THIS VERSION:** 
+ > I messed up the compilation and made the list unplayable. 
+ > It is now playable but I was mid dev on this update when I realized the issue. 
+ > The modlist is fine, however it set me back a little bit and some towns are now vanilla until next version.
  
 ## **ADDED:**
 - Cheese Wedge - Replacer
@@ -17,12 +20,13 @@ MAIN REASON FOR THIS VERSION: I messed up the compilation and made the list unpl
 ## **REMOVED:**
 - Expanded Towns and Cities
 - Skyrim Food Expansion
-</Details>
+
 
 ## **UPDATED:**
 - Skyrim Cut Content Restoration - Granite Hill
 - H.O.A. - Hyperspecific Occlusion Addon
 - Redbag Granite Hill Addon
+</Details>
 # **0.3.1**
 <Details>
  
@@ -359,6 +363,7 @@ MAIN REASON FOR THIS VERSION: I messed up the compilation and made the list unpl
 - Dwemer Water Wheels - Markarth Outskirts patch
 - Patched CC Pets for ETAC Rorikstead
 </Details>
+
 
 
 
