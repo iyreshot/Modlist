@@ -1,6 +1,7 @@
 # **0.4.0 - The Silent Update** 
 <Details>
-# **IMPORTANT PLEASE READ - THIS VERSION IS NOT SAVE SAFE**
+
+ # **IMPORTANT PLEASE READ - THIS VERSION IS NOT SAVE SAFE**
  
 ## **MAIN REASON FOR THIS VERSION:** 
  > I messed up the compilation and made the list unplayable. 
@@ -27,6 +28,7 @@
 - H.O.A. - Hyperspecific Occlusion Addon
 - Redbag Granite Hill Addon
 </Details>
+
 # **0.3.1**
 <Details>
  
@@ -363,6 +365,7 @@
 - Dwemer Water Wheels - Markarth Outskirts patch
 - Patched CC Pets for ETAC Rorikstead
 </Details>
+
 
 
 
