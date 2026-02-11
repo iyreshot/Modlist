@@ -1,7 +1,8 @@
 # **0.4.1** 
 
 <Details>
-**FIXES:**
+
+ **FIXES:**
 
 - Cleaned up some stuff in crafting menu
 - Fixed mesh crash
@@ -376,6 +377,7 @@
 - Dwemer Water Wheels - Markarth Outskirts patch
 - Patched CC Pets for ETAC Rorikstead
 </Details>
+
 
 
 
