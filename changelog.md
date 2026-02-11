@@ -1,3 +1,14 @@
+# **0.4.1** 
+
+<Details>
+**FIXES:**
+
+- Cleaned up some stuff in crafting menu
+- Fixed mesh crash
+- Fixed a name of a food item in xEdit
+- Big seam in Falkreath
+</Details>
+
 # **0.4.0 - The Silent Update** 
 <Details>
 
@@ -365,6 +376,7 @@
 - Dwemer Water Wheels - Markarth Outskirts patch
 - Patched CC Pets for ETAC Rorikstead
 </Details>
+
 
 
 
