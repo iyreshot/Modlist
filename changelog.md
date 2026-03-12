@@ -1,7 +1,7 @@
 # **0.5.0**
 <Details>
  
-**ADDED:**
+## **ADDED:**
 - Better Third Person Selection
 - Spaghetti's Cities - Windhelm
 - Spaghetti's Towns - Kynesgrove
@@ -25,24 +25,24 @@
 - Illusive Infiltrator Armor
 - Adventurer Armor
 
-**REMOVED:**
+## **REMOVED:**
 - Dynamic String Distributor
 - Oblivion Interaction Icons
 - Grand Solitude - The Walls of High King Erling - Fixed and Optimized
 - Swift Potion NG - Replaced with Smart Optimal Salves SKSE
 - Freak's Floral Solstheim - A Cathedral Grass Overhaul
 
-**UPDATED:**
+## **UPDATED:**
 - JK's Solitude Outskirts - Patch Collection
 - ImGui Icons
 - Floating Subtitles
 - SIGMA - Greatsword animations - 1st person
 
-**TWEAKS/PATCHES:**
+## **TWEAKS/PATCHES:**
 - Removed physics from Forsworn female bodyslide because clipping issues. Might re-adress this later, but this was a simple fix.
 - 
 
-**MISC:**
+## **MISC:**
 - Redid Windhelm again, added spaghettis, and merged plugins 
 - Grass overhauled
 </Details>
@@ -426,6 +426,7 @@
 - Dwemer Water Wheels - Markarth Outskirts patch
 - Patched CC Pets for ETAC Rorikstead
 </Details>
+
 
 
 
