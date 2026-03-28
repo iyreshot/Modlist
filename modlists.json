@@ -21,24 +21,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/iyreshot/Modlist/main/logo.png",
       "readme": "https://github.com/iyreshot/Modlist",
-      "download": "https://authored-files.wabbajack.org/Lyra.wabbajack_49969cfd-eafe-45b9-a7b2-d8a5ca3d3366",
+      "download": "https://authored-files.wabbajack.org/Lyra.wabbajack_e8897c13-8626-4861-8f3a-9b0664a389f1",
       "machineURL": "LyraRequiemWabba",
       "discordURL": "https://discord.com/invite/QBcggWVJwS",
       "websiteURL": "",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "s+onfYc050w=",
-      "Size": 314689820,
-      "NumberOfArchives": 1590,
-      "SizeOfArchives": 130837574102,
+      "Hash": "5Vj/zGPe20U=",
+      "Size": 1632573027,
+      "NumberOfArchives": 1588,
+      "SizeOfArchives": 130833035690,
       "NumberOfInstalledFiles": 187579,
-      "SizeOfInstalledFiles": 200292261901,
-      "TotalSize": 331129836003
+      "SizeOfInstalledFiles": 200292261899,
+      "TotalSize": 331125297589
     },
     "version": "0.5.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-03-24T18:01:30.7506898Z",
+    "dateUpdated": "2026-03-28T21:26:06.383248Z",
     "repositoryName": ""
   }
 ]
