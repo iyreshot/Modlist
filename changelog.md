@@ -73,15 +73,13 @@
 - Legacy of Ysgrammor 
 - Light Wolf Armor
 - Vampire Armor Expansion
-- Welkynar Hussar Armor
 - HDT-SMP College Mage Robes
 
 ## **MISC:**
 - HFs - Horker Meat
 - HFs - Goat Leg
 - HFs - Venison 
-- 
-
+  
 ## **FOLLOWERS:**
 - Katana - Journey into the Shadows
 - Feris - Rogue Follower
