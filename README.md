@@ -2,7 +2,7 @@
 ![](https://github.com/iyreshot/Modlist/blob/main/logo.png)
 
 
-# Version 0.5.0 ~ by iyreshot
+# Version 1.0.0 ~ by iyreshot
 
 <table stlyle="border: none;">
 <tr>
