@@ -1,3 +1,150 @@
+# **1.0.0**
+
+<Details>
+## **MAIN ADDITIONS:**
+- Disabled Reference Integrity Fix (SKSE)
+- Critter Master - Script Call Reduction
+- Locked Chests Have Keys
+- M.M.B. - Modding My Business
+- Old Orc Overhaul
+- Requiem - Minor Arcana - Forsworn
+- Horsepower
+- Medieval Torch
+- Show Player In Inventory
+- Simplest Horses 
+- Dynamic Footprints SKSE
+- New Creature Animation - Werewolf
+- Directional Movement Keys - DMK
+- Auto Skeleton Patch - Universal Behaviour Runtime
+- A-Pose Bug Fix - Universal Behavior Runtime
+- Requiem - Followers Rebalanced
+- Honed Metal
+- Fountains of Skyrim - Whiterun
+- Pick Up Radius SKSE
+- Skyfall's Whiterun Bridges Replacer
+- Simple Wheeler Menu - dMenu Port
+- Tears of Kyne - Water Need Addon
+- Press E to Heal Followers
+
+## **MAGIC:**
+- Kittytails - Obscure Magic
+- Kittytails - Elemental Mastery Magic
+- Skyrim on Skooma
+- 360 Ward
+- Apocalypse - Magic of Skyrim
+
+## **PERKS:**
+- Boozy Obnoxious and Opulent Bards
+- Unusual Perks of Barenziah
+- Sacrilege - Vampires of Skyrim
+- Growl - Werebeasts of Skyrim
+
+## **LOCATIONS:**
+- Skyrim Bandit Expansion
+- Skyrim Realistic Conquering - Valtheim Towers
+- Snozz - Robber's Gorge
+- Snozz - Embershard
+- Snozz - Halted Stream Camp
+- Snozz - Redoran's Retreat
+- Snozz - Fort Greymoor
+- Snozz - Bleak Falls Barrow v2
+- Snozz - Valtheim 
+- JK's The Winking Skeever
+- JK's The Bards College
+- Winter Cove
+- Lund's Hamlet - An Overhaul
+- Mage Towers of Skyrim
+- Snazzy Towns and Settlements
+
+## **QUESTS/SCENE TWEAKS:**
+- Improved College Entry 
+- Andrealletius' Scene Tweaks
+- Werewolf Spirits
+- Carriages and Stables Dialogue Bundle
+- Knight of the North
+- The Frozen Heart
+
+## **ARMOR:**
+- Valenwood Ranger Armor Mashup
+- Legacy of Ysgrammor 
+- Light Wolf Armor
+- Vampire Armor Expansion
+- Welkynar Hussar Armor
+- HDT-SMP College Mage Robes
+
+## **MISC:**
+- HFs - Horker Meat
+- HFs - Goat Leg
+- HFs - Venison 
+- 
+
+## **FOLLOWERS:**
+- Katana - Journey into the Shadows
+- Feris - Rogue Follower
+- Inigo
+
+## **REMOVED:**
+- Requiem - Trad - AE CC - Collection
+- QWs Grass Patch 2
+- Separated Slash Effects X - MIF
+- Holy Wards - Spell Retexture
+- Alchemy XP Fix
+- SCAR - ER Moveset Collection NPC (CPR)
+- For Honor in Skyrim
+- BFCO Eskyrim's Sprint Attacks - For Honor Version
+- SMP-NPC crash fix
+- Fur Shader Armors
+- The Witcher 3 Music Overhaul (SE Edition)
+- STB Widgets
+- STB Active Effects
+
+## **UPDATED:**
+- Ivy Riverwood Overhaul 
+- Ivy Stendarr Beacon Overhaul
+- SmoothCam
+- Sanguine Symphony
+- Why I Came to Skyrim
+- Core Impact Framework
+- Parry for All
+- DF - Dismembering Framework
+- MLO2
+- Vel'dun UI
+- Modern Wait Menu
+- Faster HDT-SMP
+- Vanaheimr - Mines and Caves
+- Snoblind
+- DynDOLOD
+- BFCO - Attack Behavior Framework
+- Lod Model Library for DynDOLOD
+- Engine Fixes
+- Perk Entry Point Extender
+- Pandora Behaviour Engine Plus
+- H.O.A. - Hyperspecific Occlusion Addon
+- Northern Roads - Patch Collection
+- M.M.B. - Modding My Business
+- Northern Roads - Vanaheimr
+- HDT-SMP Vanilla Armors
+- SkyParkour V3 - Parkour Framework Update
+- Reimagined Mountain Flowers
+- S.T.A.R. (So This Aint Right) - Patch Hub
+- Chapter II - Jeremy Soule Inspired Music
+- Lux
+- Water for ENB
+- Embers XD
+- Widescreen Scale Removed
+- SKY UI 
+- Floating Subtitles
+
+## **TWEAKED/FIXED/CHANGES:**
+- Bear traps should no longer crash the game when trying to pick up. CREDIT GOES TO IVY FOR THIS. THANK YOU!
+- Fixed water seam on Lake Ilinalta
+- Grass overhauled again. I didn't want to, but there was a big issue with the previous patch that couldn't be fixed. Enjoy the better performance though!
+- Buffed Old Orc, Hendraheim lady, 
+- Fixed player character beast races
+- Floaty clothing meshes fixed
+- Fixed stupid vampire crash that was stupid and not at all annoying or my fault in any way shape or form.
+</Details>
+
 # **0.5.0**
 <Details>
  
