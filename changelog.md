@@ -3,6 +3,7 @@
 <Details>
  
 ## **MAIN ADDITIONS:**
+
 - Disabled Reference Integrity Fix (SKSE)
 - Critter Master - Script Call Reduction
 - Locked Chests Have Keys
