@@ -1,6 +1,7 @@
 # **1.0.0**
 
 <Details>
+ 
 ## **MAIN ADDITIONS:**
 - Disabled Reference Integrity Fix (SKSE)
 - Critter Master - Script Call Reduction
